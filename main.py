@@ -12,8 +12,8 @@ import pingouin as pg
 # Use a breakpoint in the code line below to debug your script.
 
 summary = iterate_dataset(
-    # subjects=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
-    subjects=[10],
+    subjects=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    # subjects=[10],
     cursors=["Head", "MM"],
     selections=["Dwell", "Score"],
     # repetitions=range(2, 10),

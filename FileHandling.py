@@ -352,7 +352,7 @@ def distance_analysis(mainrow):
             (data.selected_target == "target_score") & (data.target_score > 0.5)
         ]
     if len(success_only) <= 0:
-        print("No success")
+        # print("No success")
         return
 
 
@@ -368,7 +368,7 @@ def time_analysis(mainrow):
         ]
 
     if len(success_only) <= 0:
-        print("No success")
+        # print("No success")
         return
     contact_time = success_only.timestamp.values[0]
     total_time = data.timestamp.values[-1] - data.timestamp.values[0]

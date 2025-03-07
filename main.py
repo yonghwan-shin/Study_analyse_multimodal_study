@@ -1,3 +1,4 @@
+#%%
 import time
 from FileHandling import *
 import numpy as np
@@ -5,31 +6,43 @@ from matplotlib.patches import Circle
 from pathlib import Path
 import seaborn as sns
 import pingouin as pg
+import warnings
+warnings.filterwarnings('ignore')
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+# %%
+
 # %% run
-# Use a breakpoint in the code line below to debug your script.
-
 summary = iterate_dataset(
     subjects=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     # subjects=[10],
     cursors=["Head", "MM"],
     selections=["Dwell", "Score"],
-    # repetitions=range(2, 10),
-    repetitions=range(10),
+    repetitions=range(2, 10),
+    # repetitions=range(10),
 )
-
 # %%
+summary = pd.read_pickle("summary.pkl")
+
+#%%
 summary[["total_time", "contact_time", "selection_time"]] = summary.apply(
     time_analysis, axis=1, result_type="expand"
 )
 summary["target_entries"] = summary.apply(entries_analysis, axis=1)
 
+
 results = summary.drop(["data"], axis=1).dropna()
+results = results[results.repetition > 0]
+
+
+success_only = results[results.success == 1]
+
 by_subjects = results.groupby(
     [results.subject, results.cursor, results.selection]
 ).mean()
+by_subjects_success_only = success_only.groupby(
+    [success_only.subject, success_only.cursor, success_only.selection]
+).mean()
+
 # %% Defining error trials
 summary["error"] = ""
 
@@ -65,23 +78,50 @@ filtered_df = results.groupby(["cursor", "selection"], group_keys=False).apply(
     filter_group
 )
 print(len(filtered_df))
+
 # %%
-sns.barplot(data=by_subjects, x="cursor", y="total_time", hue="selection")
-plt.ylim(0, 5)
-plt.show()
-# %%
-sns.barplot(data=by_subjects, x="cursor", y="success", hue="selection")
-plt.ylim(0, 1)
-plt.show()
-# %%
-sns.barplot(data=by_subjects, x="cursor", y="target_entries", hue="selection")
-# plt.ylim(0, 1)
-plt.show()
-# %%
+custom_params = {"axes.spines.right": True, "axes.spines.top": True}
+sns.set_theme(
+    context="paper",  # 매체: paper, talk, poster
+    style="whitegrid",  # 기본 내장 테마
+    palette="muted",  # 그래프 색
+    font_scale=3,  # 글꼴 크기
+    rc=custom_params,
+)  # 그래프 세부 사항
 for c in ["total_time", "success", "target_entries", "contact_time", "selection_time"]:
-    sns.barplot(data=by_subjects, x="cursor", y=c, hue="selection")
+
+    if c  in  ["selection_time","total_time"]:
+        dataset = by_subjects_success_only.copy()
+    else:
+        dataset = by_subjects.copy()
+
+    g = sns.catplot(
+        data=dataset,
+        x="cursor",
+        y=c,
+        hue="selection",
+        kind="box",
+        showfliers=True,
+        showmeans=True,
+        meanprops={
+            "marker": "x",
+            "markerfacecolor": "white",
+            "markeredgecolor": "black",
+            "markersize": "10",
+        },
+        height=10,
+        aspect=0.8,
+        # legend_out=False,
+    )
+
+    # Access the legend object (a property of the FacetGrid)
+
+    # Set the legend title font size
+    # legend.set_title("Sex", prop={"size": "small"})
     plt.title(c)
+    # plt.tight_layout()
     plt.show()
+    # plt.savefig("Plots/" + c + ".pdf")
 # %% RM anova
 # 'success'
 # "total_time"

@@ -354,7 +354,41 @@ def distance_analysis(mainrow):
     if len(success_only) <= 0:
         # print("No success")
         return
+def curvature_index(x, y):
+    """
+    Compute curvature index as the ratio of total path length to the Euclidean distance.
 
+    Parameters:
+    - x, y: Arrays of x and y coordinates.
+
+    Returns:
+    - curvature_index: A scalar representing deviation from a straight line.
+    - path_length: Total traveled distance.
+    - straight_distance: Euclidean distance between start and end points.
+    """
+    # Compute total path length (sum of segment distances)
+    segment_distances = np.sqrt(np.diff(x)**2 + np.diff(y)**2)
+    path_length = np.sum(segment_distances)
+
+    # Compute straight-line Euclidean distance
+    straight_distance = np.sqrt((x[-1] - x[0])**2 + (y[-1] - y[0])**2)
+
+    # Compute curvature index
+    curvature_index = path_length / straight_distance if straight_distance != 0 else np.nan
+
+    return curvature_index, path_length, straight_distance
+
+def curvature_analysis(mainrow):
+    selection = mainrow["selection"]
+    data = mainrow["data"]
+    target_num = mainrow["target"]
+    total_time = data.timestamp.values[-1] - data.timestamp.values[0]
+    x, y = data['head_origin_x'].values, data['head_origin_z'].values
+
+    curv_idx, path_length, straight_dist = curvature_index(x, y)
+    avg_speed = path_length/total_time
+    
+    return curv_idx, path_length, straight_dist, avg_speed
 
 def time_analysis(mainrow):
     selection = mainrow["selection"]
@@ -374,6 +408,24 @@ def time_analysis(mainrow):
     total_time = data.timestamp.values[-1] - data.timestamp.values[0]
     selection_time = total_time - contact_time
     return total_time, contact_time, selection_time
+
+def maxsize_analysis(mainrow):
+    data = mainrow["data"]
+    target_num = mainrow["target"]
+    selection = mainrow["selection"]
+    if selection == "Dwell":
+        success_only = data[data.target_name == "Target_" + str(target_num)]
+    else:
+        success_only = data[
+            (data.selected_target == "target_score") & (data.target_score > 0.5)
+        ]
+    if len(success_only) <= 0:
+        # print("No success")
+        return
+    contact_time = success_only.timestamp.values[0]
+    d = data[data.timestamp >= contact_time]
+    d['timestamp'] = d['timestamp']-d['timestamp'].values[0]
+    return d[d.timestamp <=1].cursor_angular_distance.max()
 
 
 def entries_analysis(mainrow):

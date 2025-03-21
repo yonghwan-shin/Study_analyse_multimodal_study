@@ -7,19 +7,19 @@ from pathlib import Path
 import seaborn as sns
 import pingouin as pg
 import warnings
+from tabulate import tabulate
 warnings.filterwarnings('ignore')
-
-# %%
+from joblib import dump,load
+print("Packages are imported")
 
 # %% run
 summary = iterate_dataset(
     subjects=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-    # subjects=[10],
     cursors=["Head", "MM"],
     selections=["Dwell", "Score"],
     repetitions=range(2, 10),
-    # repetitions=range(10),
 )
+summary.to_pickle('summary.pkl')
 # %%
 summary = pd.read_pickle("summary.pkl")
 
@@ -27,9 +27,13 @@ summary = pd.read_pickle("summary.pkl")
 summary[["total_time", "contact_time", "selection_time"]] = summary.apply(
     time_analysis, axis=1, result_type="expand"
 )
+summary[["curv_idx", "path_length", "straight_dist", "avg_speed"]] = summary.apply(
+    curvature_analysis, axis=1, result_type="expand"
+)
+
 summary["target_entries"] = summary.apply(entries_analysis, axis=1)
 
-
+# summary["max_size"] = summary.apply(maxsize_analysis, axis=1)
 results = summary.drop(["data"], axis=1).dropna()
 results = results[results.repetition > 0]
 
@@ -88,9 +92,12 @@ sns.set_theme(
     font_scale=3,  # 글꼴 크기
     rc=custom_params,
 )  # 그래프 세부 사항
+def format_label(label):
+    return label.replace("_", " ").title()
+
 for c in ["total_time", "success", "target_entries", "contact_time", "selection_time"]:
 
-    if c  in  ["selection_time","total_time"]:
+    if c  in  ["selection_time","total_time",'contact_time']:
         dataset = by_subjects_success_only.copy()
     else:
         dataset = by_subjects.copy()
@@ -113,20 +120,27 @@ for c in ["total_time", "success", "target_entries", "contact_time", "selection_
         aspect=0.8,
         # legend_out=False,
     )
-
-    # Access the legend object (a property of the FacetGrid)
-
-    # Set the legend title font size
-    # legend.set_title("Sex", prop={"size": "small"})
-    plt.title(c)
+    for ax in g.axes.flat:
+        ax.set_xlabel(format_label(ax.get_xlabel()))
+        ax.set_ylabel(format_label(ax.get_ylabel()))
+    g.set_titles(col_template="{col_name}".title())
+    plt.title(format_label(c))
     # plt.tight_layout()
     plt.show()
     # plt.savefig("Plots/" + c + ".pdf")
 # %% RM anova
-# 'success'
-# "total_time"
-for c in ["total_time", "success", "target_entries", "contact_time", "selection_time"]:
+
+for c in [
+    # "total_time",
+    #   "success", 
+          "target_entries",
+            # "contact_time", "selection_time"
+          ]:
     dataset = summary.dropna(subset=[c])
+    if c in ["selection_time", "total_time", "contact_time"]:
+        dataset = success_only.copy()
+    # dataset = success_only.dropna(subset=[c])
+    # dataset=success_only.copy()
     dataset["cursor"] = dataset["cursor"].map({"Head": 0, "MM": 1})
     dataset["selection"] = dataset["selection"].map({"Dwell": 0, "Score": 1})
     dataset.loc[:, "cursor"] = dataset["cursor"].astype(int)
@@ -156,6 +170,7 @@ for c in ["total_time", "success", "target_entries", "contact_time", "selection_
     from tabulate import tabulate
 
     print(tabulate(posthoc, headers="keys", tablefmt="grid"))
+    
 
 # %%
 import seaborn as sns

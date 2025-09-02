@@ -5,7 +5,26 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
 
+def read_app_data(subject,condition, repetition):
+    folder = 'App_' + str(condition)
+    root = Path(__file__).resolve().parent / "Dataset" / folder / str(subject)
+    files = root.rglob("*.json")
+    for idx, file in enumerate(files):
+        if idx==repetition:
+            with open(file) as f:
+                output = pd.read_json(f)
+                head_origin = pd.json_normalize(output.head_origin, sep="_").rename(
+                    columns={
+                        "x": "head_origin_x",
+                        "y": "head_origin_y",
+                        "z": "head_origin_z",
+                    }
+                )
+                output=pd.concat([output,head_origin],axis=1)
 
+                output.timestamp = output.timestamp - output.timestamp.values[0]
+                return output
+        
 def read_data(subject, cursor, selection, repetition):
     root = Path(__file__).resolve().parent / "Dataset" / str(subject)
     trial_detail = f"subject{str(subject)}_cursor{str(cursor)}_Selection{str(selection)}_repetition{str(repetition)}"
@@ -447,6 +466,86 @@ def entries_analysis(mainrow):
             all_success_dwells.append(df)
     target_in_count = len(all_success_dwells)
     return target_in_count
+def angular_distance(h_offset, v_offset):
+    return np.sqrt(h_offset**2 + v_offset**2)
+def cap_velocity(prev_offset, target_offset, max_velocity, dt):
+    direction = target_offset - prev_offset
+    distance = np.linalg.norm(direction)
+    max_step = max_velocity * dt
+    if distance <= max_step:
+        return target_offset
+    else:
+        return prev_offset + direction / distance * max_step
+def check_success(offsets, timestamps, threshold=1.5, required_duration=1.0):
+    """Check if cursor stayed within threshold for required_duration (in seconds)."""
+    within = [np.linalg.norm(offset) < threshold for offset in offsets]
+    # print(within)
+    start_idx = None
+    for i, inside in enumerate(within):
+        if inside:
+            if start_idx is None:
+                start_idx = i
+        else:
+            if start_idx is not None:
+                duration = timestamps[i - 1] - timestamps[start_idx]
+                if duration >= required_duration:
+                    return True
+                start_idx = None
+    
+    # Check if last segment satisfies the condition
+    if start_idx is not None:
+        duration = timestamps[-1] - timestamps[start_idx]
+        if duration >= required_duration:
+            return True
+    
+    return False
+def cap_velocity_analysis(mainrow, thresh=9, vmax=12):
+    data = mainrow["data"]
+    target_num = mainrow["target"]
+    selection = mainrow["selection"]
+    cursor = mainrow["cursor"]
+    if cursor == "Head":
+        return
+    if selection == "Dwell":
+        success_only = data[data.target_name == "Target_" + str(target_num)]
+    else:
+        return
+        success_only = data[
+            (data.selected_target == "target_score") & (data.target_score > 0.5)
+        ]
+    if len(success_only) <= 0:
+        # print("No success")
+        return
+    contact_time = success_only.timestamp.values[0]
+    # d = data[data.timestamp >= contact_time]
+    d=data.copy()
+    # d['timestamp'] = d['timestamp']-d['timestamp'].values[0]
+    offsets = []
+    timestamps = []
+
+    for i in range(1,len(d)):
+        dt = d.loc[i, 'timestamp'] - d.loc[i - 1, 'timestamp']
+                
+        # Head and eye angular distance
+        head = np.array([d.loc[i, 'head_horizontal_offset'],
+                            d.loc[i, 'head_vertical_offset']])
+        eye = np.array([d.loc[i, 'eyeRay_horizontal_offset'],
+                        d.loc[i, 'eyeRay_vertical_offset']])
+        
+        dist = np.linalg.norm(head - eye)
+        capped_cursor =head
+        if dist < thresh:
+            # vmax =  6 + vmax - dist/thresh * vmax
+            capped_cursor = cap_velocity(capped_cursor, eye, vmax, dt)
+        else:
+            capped_cursor = head  # just follow head
+                
+        offsets.append(capped_cursor)
+        timestamps.append(d.loc[i, 'timestamp'])
+    success = check_success(offsets, timestamps, threshold=1.5, required_duration=1.0)
+    # print(f"Success: {success}")
+    return success
+
 
 
 def correct_angle(angle):

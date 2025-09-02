@@ -1,0 +1,7686 @@
+[
+  {
+    "head_origin": {
+      "x": 0.0229517035,
+      "y": 1.52179325,
+      "z": 6.64677
+    },
+    "head_forward": {
+      "x": 0.5065749,
+      "y": -0.139964432,
+      "z": 0.8507595
+    },
+    "head_rotation": {
+      "x": 8.04579,
+      "y": 30.7711945,
+      "z": 357.8464
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0229517035,
+        "y": 1.52179325,
+        "z": 6.64677
+      },
+      "direction": {
+        "x": 0.490587682,
+        "y": -0.116635874,
+        "z": 0.8635511
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.8952624,
+      "y": 1.02279329,
+      "z": 8.446513
+    },
+    "target_plane_position": {
+      "x": 0.516707361,
+      "y": 0.010830719,
+      "z": 0.8560935
+    },
+    "cursor_angular_distance": 8.184557,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 373.987274
+  },
+  {
+    "head_origin": {
+      "x": 0.0250109546,
+      "y": 1.520732,
+      "z": 6.65620232
+    },
+    "head_forward": {
+      "x": 0.5094052,
+      "y": -0.141949862,
+      "z": 0.8487382
+    },
+    "head_rotation": {
+      "x": 8.160692,
+      "y": 30.9718113,
+      "z": 357.802124
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0250109546,
+        "y": 1.520732,
+        "z": 6.65620232
+      },
+      "direction": {
+        "x": 0.492448777,
+        "y": -0.11911045,
+        "z": 0.862152636
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.05593686,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.906285048,
+      "y": 1.02173209,
+      "z": 8.451573
+    },
+    "target_plane_position": {
+      "x": 0.516707361,
+      "y": 0.010830719,
+      "z": 0.8560935
+    },
+    "cursor_angular_distance": 7.98967028,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.002075
+  },
+  {
+    "head_origin": {
+      "x": 0.0273419656,
+      "y": 1.519928,
+      "z": 6.6654
+    },
+    "head_forward": {
+      "x": 0.512455046,
+      "y": -0.14379248,
+      "z": 0.8465894
+    },
+    "head_rotation": {
+      "x": 8.267361,
+      "y": 31.1872349,
+      "z": 357.807617
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0273419656,
+        "y": 1.519928,
+        "z": 6.6654
+      },
+      "direction": {
+        "x": 0.494426727,
+        "y": -0.121523827,
+        "z": 0.860682368
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.08609731,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.9163619,
+      "y": 1.02092791,
+      "z": 8.456947
+    },
+    "target_plane_position": {
+      "x": 0.516707361,
+      "y": 0.010830719,
+      "z": 0.8560935
+    },
+    "cursor_angular_distance": 7.818336,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.018036
+  },
+  {
+    "head_origin": {
+      "x": 0.0297666118,
+      "y": 1.51912928,
+      "z": 6.6748414
+    },
+    "head_forward": {
+      "x": 0.5162292,
+      "y": -0.145392552,
+      "z": 0.844019234
+    },
+    "head_rotation": {
+      "x": 8.360012,
+      "y": 31.45129,
+      "z": 357.865356
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0297666118,
+        "y": 1.51912928,
+        "z": 6.6748414
+      },
+      "direction": {
+        "x": 0.4965817,
+        "y": -0.123858511,
+        "z": 0.859107733
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.100383684,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.927072346,
+      "y": 1.0201292,
+      "z": 8.462254
+    },
+    "target_plane_position": {
+      "x": 0.516707361,
+      "y": 0.010830719,
+      "z": 0.8560935
+    },
+    "cursor_angular_distance": 7.648731,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.032745
+  },
+  {
+    "head_origin": {
+      "x": 0.0325440429,
+      "y": 1.51815259,
+      "z": 6.68389654
+    },
+    "head_forward": {
+      "x": 0.520449162,
+      "y": -0.145396784,
+      "z": 0.8414229
+    },
+    "head_rotation": {
+      "x": 8.360256,
+      "y": 31.7382221,
+      "z": 357.971
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0325440429,
+        "y": 1.51815259,
+        "z": 6.68389654
+      },
+      "direction": {
+        "x": 0.498938382,
+        "y": -0.125966027,
+        "z": 0.857434034
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.1032294,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.9382272,
+      "y": 1.01915264,
+      "z": 8.467078
+    },
+    "target_plane_position": {
+      "x": 0.516707361,
+      "y": 0.010830719,
+      "z": 0.8560935
+    },
+    "cursor_angular_distance": 7.49525261,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.050079
+  },
+  {
+    "head_origin": {
+      "x": 0.0352436,
+      "y": 1.51716292,
+      "z": 6.69338369
+    },
+    "head_forward": {
+      "x": 0.5248732,
+      "y": -0.1451241,
+      "z": 0.8387176
+    },
+    "head_rotation": {
+      "x": 8.344465,
+      "y": 32.038517,
+      "z": 358.099426
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0352436,
+        "y": 1.51716292,
+        "z": 6.69338369
+      },
+      "direction": {
+        "x": 0.5014981,
+        "y": -0.127841964,
+        "z": 0.8556612
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.09861427,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.9491668,
+      "y": 1.018163,
+      "z": 8.472357
+    },
+    "target_plane_position": {
+      "x": 0.516707361,
+      "y": 0.010830719,
+      "z": 0.8560935
+    },
+    "cursor_angular_distance": 7.361034,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.066528
+  },
+  {
+    "head_origin": {
+      "x": 0.0381442122,
+      "y": 1.51609623,
+      "z": 6.70251846
+    },
+    "head_forward": {
+      "x": 0.52873075,
+      "y": -0.144818127,
+      "z": 0.8363442
+    },
+    "head_rotation": {
+      "x": 8.326748,
+      "y": 32.3007774,
+      "z": 358.210266
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0381442122,
+        "y": 1.51609623,
+        "z": 6.70251846
+      },
+      "direction": {
+        "x": 0.5041848,
+        "y": -0.1295054,
+        "z": 0.8538303
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0897166654,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.9598709,
+      "y": 1.01709628,
+      "z": 8.477461
+    },
+    "target_plane_position": {
+      "x": 0.516707361,
+      "y": 0.010830719,
+      "z": 0.8560935
+    },
+    "cursor_angular_distance": 7.247194,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.084229
+  },
+  {
+    "head_origin": {
+      "x": 0.04116203,
+      "y": 1.51559973,
+      "z": 6.71216774
+    },
+    "head_forward": {
+      "x": 0.5319895,
+      "y": -0.144147649,
+      "z": 0.8343912
+    },
+    "head_rotation": {
+      "x": 8.287925,
+      "y": 32.52069,
+      "z": 358.299
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.04116203,
+        "y": 1.51559973,
+        "z": 6.71216774
+      },
+      "direction": {
+        "x": 0.5069266,
+        "y": -0.130941063,
+        "z": 0.8519859
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.07896929,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.9706372,
+      "y": 1.01659966,
+      "z": 8.483065
+    },
+    "target_plane_position": {
+      "x": 0.537495,
+      "y": 0.009884711,
+      "z": 0.843209
+    },
+    "cursor_angular_distance": 7.147017,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.101318
+  },
+  {
+    "head_origin": {
+      "x": 0.04448089,
+      "y": 1.51506758,
+      "z": 6.72145176
+    },
+    "head_forward": {
+      "x": 0.534124851,
+      "y": -0.14243117,
+      "z": 0.8333211
+    },
+    "head_rotation": {
+      "x": 8.188553,
+      "y": 32.65821,
+      "z": 358.345
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.04448089,
+        "y": 1.51506758,
+        "z": 6.72145176
+      },
+      "direction": {
+        "x": 0.5096061,
+        "y": -0.132068485,
+        "z": 0.8502116
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.06731404,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.9816319,
+      "y": 1.0160675,
+      "z": 8.488298
+    },
+    "target_plane_position": {
+      "x": 0.537495,
+      "y": 0.009884711,
+      "z": 0.843209
+    },
+    "cursor_angular_distance": 7.06180334,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.123077
+  },
+  {
+    "head_origin": {
+      "x": 0.04761592,
+      "y": 1.514181,
+      "z": 6.730872
+    },
+    "head_forward": {
+      "x": 0.5357497,
+      "y": -0.140868068,
+      "z": 0.8325434
+    },
+    "head_rotation": {
+      "x": 8.098081,
+      "y": 32.761673,
+      "z": 358.360779
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.04761592,
+        "y": 1.514181,
+        "z": 6.730872
+      },
+      "direction": {
+        "x": 0.5121795,
+        "y": -0.132932708,
+        "z": 0.848528862
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0551335365,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 0.9927237,
+      "y": 1.01518106,
+      "z": 8.493476
+    },
+    "target_plane_position": {
+      "x": 0.537495,
+      "y": 0.009884711,
+      "z": 0.843209
+    },
+    "cursor_angular_distance": 6.98348045,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.134979
+  },
+  {
+    "head_origin": {
+      "x": 0.05098725,
+      "y": 1.513025,
+      "z": 6.73986769
+    },
+    "head_forward": {
+      "x": 0.5366917,
+      "y": -0.1415489,
+      "z": 0.831820846
+    },
+    "head_rotation": {
+      "x": 8.137485,
+      "y": 32.83015,
+      "z": 358.4446
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.05098725,
+        "y": 1.513025,
+        "z": 6.73986769
+      },
+      "direction": {
+        "x": 0.5145913,
+        "y": -0.1337785,
+        "z": 0.8469351
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.04200301,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.00423741,
+      "y": 1.014025,
+      "z": 8.498081
+    },
+    "target_plane_position": {
+      "x": 0.5415697,
+      "y": 0.0108632334,
+      "z": 0.8405856
+    },
+    "cursor_angular_distance": 6.8996973,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.1539
+  },
+  {
+    "head_origin": {
+      "x": 0.0546575747,
+      "y": 1.51236892,
+      "z": 6.749521
+    },
+    "head_forward": {
+      "x": 0.5371888,
+      "y": -0.141567066,
+      "z": 0.831496835
+    },
+    "head_rotation": {
+      "x": 8.1385355,
+      "y": 32.8644943,
+      "z": 358.501
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0546575747,
+        "y": 1.51236892,
+        "z": 6.749521
+      },
+      "direction": {
+        "x": 0.516813159,
+        "y": -0.1345427,
+        "z": 0.845459938
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.029402107,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.01528287,
+      "y": 1.01336884,
+      "z": 8.50371552
+    },
+    "target_plane_position": {
+      "x": 0.5415697,
+      "y": 0.0108632334,
+      "z": 0.8405856
+    },
+    "cursor_angular_distance": 6.825444,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.169464
+  },
+  {
+    "head_origin": {
+      "x": 0.05856935,
+      "y": 1.51172054,
+      "z": 6.758399
+    },
+    "head_forward": {
+      "x": 0.5372237,
+      "y": -0.140240088,
+      "z": 0.831699133
+    },
+    "head_rotation": {
+      "x": 8.06174,
+      "y": 32.8598366,
+      "z": 358.552673
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.05856935,
+        "y": 1.51172054,
+        "z": 6.758399
+      },
+      "direction": {
+        "x": 0.5188177,
+        "y": -0.135101959,
+        "z": 0.8441421
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0205814745,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.026863,
+      "y": 1.01272058,
+      "z": 8.508372
+    },
+    "target_plane_position": {
+      "x": 0.5415697,
+      "y": 0.0108632334,
+      "z": 0.8405856
+    },
+    "cursor_angular_distance": 6.752963,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.185516
+  },
+  {
+    "head_origin": {
+      "x": 0.0626250356,
+      "y": 1.511302,
+      "z": 6.768028
+    },
+    "head_forward": {
+      "x": 0.5371424,
+      "y": -0.140176356,
+      "z": 0.8317624
+    },
+    "head_rotation": {
+      "x": 8.058051,
+      "y": 32.8538971,
+      "z": 358.55365
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.0626250356,
+        "y": 1.511302,
+        "z": 6.768028
+      },
+      "direction": {
+        "x": 0.5206161,
+        "y": -0.1355997,
+        "z": 0.8429542
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0144070322,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.03806543,
+      "y": 1.01230192,
+      "z": 8.514028
+    },
+    "target_plane_position": {
+      "x": 0.5415697,
+      "y": 0.0108632334,
+      "z": 0.8405856
+    },
+    "cursor_angular_distance": 6.68589163,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.202118
+  },
+  {
+    "head_origin": {
+      "x": 0.06699075,
+      "y": 1.51073015,
+      "z": 6.777477
+    },
+    "head_forward": {
+      "x": 0.536661744,
+      "y": -0.139721215,
+      "z": 0.832149148
+    },
+    "head_rotation": {
+      "x": 8.031714,
+      "y": 32.8183937,
+      "z": 358.524567
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.06699075,
+        "y": 1.51073015,
+        "z": 6.777477
+      },
+      "direction": {
+        "x": 0.522189438,
+        "y": -0.136003867,
+        "z": 0.841915131
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0100849224,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.04894733,
+      "y": 1.01173019,
+      "z": 8.51982
+    },
+    "target_plane_position": {
+      "x": 0.5415697,
+      "y": 0.0108632334,
+      "z": 0.8405856
+    },
+    "cursor_angular_distance": 6.62679,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.2175
+  },
+  {
+    "head_origin": {
+      "x": 0.07122984,
+      "y": 1.51004446,
+      "z": 6.78692627
+    },
+    "head_forward": {
+      "x": 0.535874248,
+      "y": -0.138268277,
+      "z": 0.832899
+    },
+    "head_rotation": {
+      "x": 7.947652,
+      "y": 32.7565956,
+      "z": 358.5073
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.07122984,
+        "y": 1.51004446,
+        "z": 6.78692627
+      },
+      "direction": {
+        "x": 0.5235299,
+        "y": -0.136226252,
+        "z": 0.8410465
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0070594456,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.05981219,
+      "y": 1.0110445,
+      "z": 8.525519
+    },
+    "target_plane_position": {
+      "x": 0.5415697,
+      "y": 0.0108632334,
+      "z": 0.8405856
+    },
+    "cursor_angular_distance": 6.57166672,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.232666
+  },
+  {
+    "head_origin": {
+      "x": 0.07573451,
+      "y": 1.50913513,
+      "z": 6.79609156
+    },
+    "head_forward": {
+      "x": 0.53487885,
+      "y": -0.137307227,
+      "z": 0.833697438
+    },
+    "head_rotation": {
+      "x": 7.89205647,
+      "y": 32.6831856,
+      "z": 358.487854
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.07573451,
+        "y": 1.50913513,
+        "z": 6.79609156
+      },
+      "direction": {
+        "x": 0.524640441,
+        "y": -0.136332735,
+        "z": 0.840336561
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.004941612,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.07096732,
+      "y": 1.01013517,
+      "z": 8.530886
+    },
+    "target_plane_position": {
+      "x": 0.5415697,
+      "y": 0.0108632334,
+      "z": 0.8405856
+    },
+    "cursor_angular_distance": 6.51944828,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.2504
+  },
+  {
+    "head_origin": {
+      "x": 0.08028528,
+      "y": 1.50838661,
+      "z": 6.80549574
+    },
+    "head_forward": {
+      "x": 0.5338897,
+      "y": -0.137023941,
+      "z": 0.834377766
+    },
+    "head_rotation": {
+      "x": 7.875671,
+      "y": 32.61378,
+      "z": 358.482727
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.08028528,
+        "y": 1.50838661,
+        "z": 6.80549574
+      },
+      "direction": {
+        "x": 0.5255445,
+        "y": -0.136400774,
+        "z": 0.839760661
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.00345912832,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.08154559,
+      "y": 1.00938654,
+      "z": 8.5368185
+    },
+    "target_plane_position": {
+      "x": 0.5415697,
+      "y": 0.0108632334,
+      "z": 0.8405856
+    },
+    "cursor_angular_distance": 6.473599,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.265869
+  },
+  {
+    "head_origin": {
+      "x": 0.08524154,
+      "y": 1.50802314,
+      "z": 6.81474829
+    },
+    "head_forward": {
+      "x": 0.533206165,
+      "y": -0.136733413,
+      "z": 0.834862351
+    },
+    "head_rotation": {
+      "x": 7.858867,
+      "y": 32.5653725,
+      "z": 358.467743
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.08524154,
+        "y": 1.50802314,
+        "z": 6.81474829
+      },
+      "direction": {
+        "x": 0.526293755,
+        "y": -0.136433676,
+        "z": 0.8392861
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0024213898,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.0926528,
+      "y": 1.00902319,
+      "z": 8.5425
+    },
+    "target_plane_position": {
+      "x": 0.544345,
+      "y": 0.009794053,
+      "z": 0.838804245
+    },
+    "cursor_angular_distance": 6.428065,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.284027
+  },
+  {
+    "head_origin": {
+      "x": 0.08995028,
+      "y": 1.50777388,
+      "z": 6.823928
+    },
+    "head_forward": {
+      "x": 0.5327124,
+      "y": -0.135124281,
+      "z": 0.8354394
+    },
+    "head_rotation": {
+      "x": 7.765807,
+      "y": 32.5233536,
+      "z": 358.474152
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.08995028,
+        "y": 1.50777388,
+        "z": 6.823928
+      },
+      "direction": {
+        "x": 0.5269195,
+        "y": -0.136306643,
+        "z": 0.838913858
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.00169497286,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.10292745,
+      "y": 1.0087738,
+      "z": 8.548421
+    },
+    "target_plane_position": {
+      "x": 0.544345,
+      "y": 0.009794053,
+      "z": 0.838804245
+    },
+    "cursor_angular_distance": 6.39715147,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.303436
+  },
+  {
+    "head_origin": {
+      "x": 0.09505916,
+      "y": 1.5084753,
+      "z": 6.832974
+    },
+    "head_forward": {
+      "x": 0.5328131,
+      "y": -0.136564329,
+      "z": 0.835140944
+    },
+    "head_rotation": {
+      "x": 7.849087,
+      "y": 32.5375443,
+      "z": 358.432922
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.09505916,
+        "y": 1.5084753,
+        "z": 6.832974
+      },
+      "direction": {
+        "x": 0.527494431,
+        "y": -0.13633199,
+        "z": 0.8385485
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.001186481,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.11316407,
+      "y": 1.00947523,
+      "z": 8.554445
+    },
+    "target_plane_position": {
+      "x": 0.544345,
+      "y": 0.009794053,
+      "z": 0.838804245
+    },
+    "cursor_angular_distance": 6.36337757,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.3175
+  },
+  {
+    "head_origin": {
+      "x": 0.100069962,
+      "y": 1.51190984,
+      "z": 6.84206533
+    },
+    "head_forward": {
+      "x": 0.5331411,
+      "y": -0.143208131,
+      "z": 0.8338178
+    },
+    "head_rotation": {
+      "x": 8.23353,
+      "y": 32.59475,
+      "z": 358.353119
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.100069962,
+        "y": 1.51190984,
+        "z": 6.84206533
+      },
+      "direction": {
+        "x": 0.5280468,
+        "y": -0.137002334,
+        "z": 0.8380914
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.00083053665,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.12309241,
+      "y": 1.01290989,
+      "z": 8.560618
+    },
+    "target_plane_position": {
+      "x": 0.544345,
+      "y": 0.009794053,
+      "z": 0.838804245
+    },
+    "cursor_angular_distance": 6.29740524,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.332336
+  },
+  {
+    "head_origin": {
+      "x": 0.105825692,
+      "y": 1.51445472,
+      "z": 6.8518095
+    },
+    "head_forward": {
+      "x": 0.5356828,
+      "y": -0.135157332,
+      "z": 0.8335325
+    },
+    "head_rotation": {
+      "x": 7.76771832,
+      "y": 32.7274666,
+      "z": 358.3599
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.105825692,
+        "y": 1.51445472,
+        "z": 6.8518095
+      },
+      "direction": {
+        "x": 0.528792143,
+        "y": -0.136823252,
+        "z": 0.837650657
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0005813757,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.13363826,
+      "y": 1.01545477,
+      "z": 8.567502
+    },
+    "target_plane_position": {
+      "x": 0.544345,
+      "y": 0.009794053,
+      "z": 0.838804245
+    },
+    "cursor_angular_distance": 6.28415966,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.3492
+  },
+  {
+    "head_origin": {
+      "x": 0.110324591,
+      "y": 1.51516032,
+      "z": 6.86091948
+    },
+    "head_forward": {
+      "x": 0.537755549,
+      "y": -0.119530961,
+      "z": 0.8345845
+    },
+    "head_rotation": {
+      "x": 6.865035,
+      "y": 32.79528,
+      "z": 358.517365
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.110324591,
+        "y": 1.51516032,
+        "z": 6.86091948
+      },
+      "direction": {
+        "x": 0.5296752,
+        "y": -0.1351395,
+        "z": 0.837365866
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.000406962965,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.14262629,
+      "y": 1.01616025,
+      "z": 8.573915
+    },
+    "target_plane_position": {
+      "x": 0.544345,
+      "y": 0.009794053,
+      "z": 0.838804245
+    },
+    "cursor_angular_distance": 6.360326,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.3655
+  },
+  {
+    "head_origin": {
+      "x": 0.114742935,
+      "y": 1.51767743,
+      "z": 6.869461
+    },
+    "head_forward": {
+      "x": 0.538354158,
+      "y": -0.123700663,
+      "z": 0.833590448
+    },
+    "head_rotation": {
+      "x": 7.105727,
+      "y": 32.8554077,
+      "z": 358.384125
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.114742935,
+        "y": 1.51767743,
+        "z": 6.869461
+      },
+      "direction": {
+        "x": 0.5305263,
+        "y": -0.134025812,
+        "z": 0.837006
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.000284874084,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.15133309,
+      "y": 1.01867747,
+      "z": 8.5798645
+    },
+    "target_plane_position": {
+      "x": 0.544345,
+      "y": 0.009794053,
+      "z": 0.838804245
+    },
+    "cursor_angular_distance": 6.407197,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.383575
+  },
+  {
+    "head_origin": {
+      "x": 0.119304717,
+      "y": 1.51899648,
+      "z": 6.879487
+    },
+    "head_forward": {
+      "x": 0.5392931,
+      "y": -0.1204987,
+      "z": 0.833452463
+    },
+    "head_rotation": {
+      "x": 6.920885,
+      "y": 32.90526,
+      "z": 358.376984
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.119304717,
+        "y": 1.51899648,
+        "z": 6.879487
+      },
+      "direction": {
+        "x": 0.5313874,
+        "y": -0.1327086,
+        "z": 0.836669743
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.00019941185,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.15993237,
+      "y": 1.0199964,
+      "z": 8.587438
+    },
+    "target_plane_position": {
+      "x": 0.5492798,
+      "y": 0.00573021173,
+      "z": 0.835618854
+    },
+    "cursor_angular_distance": 6.46853876,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.400055
+  },
+  {
+    "head_origin": {
+      "x": 0.123266429,
+      "y": 1.51848209,
+      "z": 6.88816547
+    },
+    "head_forward": {
+      "x": 0.539082766,
+      "y": -0.111529358,
+      "z": 0.834835947
+    },
+    "head_rotation": {
+      "x": 6.403484,
+      "y": 32.8517456,
+      "z": 358.676941
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.123266429,
+        "y": 1.51848209,
+        "z": 6.88816547
+      },
+      "direction": {
+        "x": 0.532149553,
+        "y": -0.130646825,
+        "z": 0.836509764
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.000139588286,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.16765559,
+      "y": 1.01948214,
+      "z": 8.593819
+    },
+    "target_plane_position": {
+      "x": 0.5492798,
+      "y": 0.00573021173,
+      "z": 0.835618854
+    },
+    "cursor_angular_distance": 6.573576,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.416626
+  },
+  {
+    "head_origin": {
+      "x": 0.126368523,
+      "y": 1.51583219,
+      "z": 6.896987
+    },
+    "head_forward": {
+      "x": 0.5358388,
+      "y": -0.11765226,
+      "z": 0.836083
+    },
+    "head_rotation": {
+      "x": 6.756627,
+      "y": 32.65548,
+      "z": 359.136627
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.126368523,
+        "y": 1.51583219,
+        "z": 6.896987
+      },
+      "direction": {
+        "x": 0.5325135,
+        "y": -0.129381374,
+        "z": 0.8364747
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        9.77117961E-05,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.17460239,
+      "y": 1.01683211,
+      "z": 8.60028
+    },
+    "target_plane_position": {
+      "x": 0.5492798,
+      "y": 0.00573021173,
+      "z": 0.835618854
+    },
+    "cursor_angular_distance": 6.63102055,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.4335
+  },
+  {
+    "head_origin": {
+      "x": 0.129981548,
+      "y": 1.51373291,
+      "z": 6.905296
+    },
+    "head_forward": {
+      "x": 0.5292894,
+      "y": -0.136433184,
+      "z": 0.83739996
+    },
+    "head_rotation": {
+      "x": 7.841502,
+      "y": 32.29546,
+      "z": 359.638184
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.129981548,
+        "y": 1.51373291,
+        "z": 6.905296
+      },
+      "direction": {
+        "x": 0.532200634,
+        "y": -0.130068973,
+        "z": 0.8365671
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.01978234,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        6.839826E-05,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.18237162,
+      "y": 1.01473284,
+      "z": 8.606024
+    },
+    "target_plane_position": {
+      "x": 0.5516901,
+      "y": 0.00373553112,
+      "z": 0.8340408
+    },
+    "cursor_angular_distance": 6.57327747,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.4553
+  },
+  {
+    "head_origin": {
+      "x": 0.13343811,
+      "y": 1.51334107,
+      "z": 6.91367435
+    },
+    "head_forward": {
+      "x": 0.5240842,
+      "y": -0.151562482,
+      "z": 0.838071942
+    },
+    "head_rotation": {
+      "x": 8.717485,
+      "y": 32.0196,
+      "z": 359.934631
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.13343811,
+        "y": 1.51334107,
+        "z": 6.91367435
+      },
+      "direction": {
+        "x": 0.5314218,
+        "y": -0.1321676,
+        "z": 0.83673346
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        4.787878E-05,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.189124,
+      "y": 1.01434112,
+      "z": 8.612358
+    },
+    "target_plane_position": {
+      "x": 0.5516901,
+      "y": 0.00373553112,
+      "z": 0.8340408
+    },
+    "cursor_angular_distance": 6.4379406,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.471161
+  },
+  {
+    "head_origin": {
+      "x": 0.13821435,
+      "y": 1.51532209,
+      "z": 6.922669
+    },
+    "head_forward": {
+      "x": 0.519845843,
+      "y": -0.1664641,
+      "z": 0.837884247
+    },
+    "head_rotation": {
+      "x": 9.582298,
+      "y": 31.816576,
+      "z": 0.0205408838
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.13821435,
+        "y": 1.51532209,
+        "z": 6.922669
+      },
+      "direction": {
+        "x": 0.5303235,
+        "y": -0.135519817,
+        "z": 0.836893857
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        3.35151453E-05,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.19667578,
+      "y": 1.01632214,
+      "z": 8.619625
+    },
+    "target_plane_position": {
+      "x": 0.5516901,
+      "y": 0.00373553112,
+      "z": 0.8340408
+    },
+    "cursor_angular_distance": 6.23344326,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.4834
+  },
+  {
+    "head_origin": {
+      "x": 0.1428156,
+      "y": 1.51669753,
+      "z": 6.9313035
+    },
+    "head_forward": {
+      "x": 0.5198334,
+      "y": -0.169475287,
+      "z": 0.8372881
+    },
+    "head_rotation": {
+      "x": 9.757313,
+      "y": 31.8342285,
+      "z": 0.00301885721
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.1428156,
+        "y": 1.51669753,
+        "z": 6.9313035
+      },
+      "direction": {
+        "x": 0.52933,
+        "y": -0.138838515,
+        "z": 0.8369788
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        2.34606014E-05,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.2043575,
+      "y": 1.01769757,
+      "z": 8.626334
+    },
+    "target_plane_position": {
+      "x": 0.5516901,
+      "y": 0.00373553112,
+      "z": 0.8340408
+    },
+    "cursor_angular_distance": 6.033807,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.500732
+  },
+  {
+    "head_origin": {
+      "x": 0.14782308,
+      "y": 1.51566541,
+      "z": 6.9396
+    },
+    "head_forward": {
+      "x": 0.52391696,
+      "y": -0.166592315,
+      "z": 0.835319161
+    },
+    "head_rotation": {
+      "x": 9.589748,
+      "y": 32.0961723,
+      "z": 359.984283
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.14782308,
+        "y": 1.51566541,
+        "z": 6.9396
+      },
+      "direction": {
+        "x": 0.528821,
+        "y": -0.141549513,
+        "z": 0.83684653
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.642242E-05,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.21237445,
+      "y": 1.01666546,
+      "z": 8.632742
+    },
+    "target_plane_position": {
+      "x": 0.5520803,
+      "y": 0.0005503595,
+      "z": 0.8337908
+    },
+    "cursor_angular_distance": 5.87309551,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.5193
+  },
+  {
+    "head_origin": {
+      "x": 0.152144,
+      "y": 1.51489043,
+      "z": 6.946604
+    },
+    "head_forward": {
+      "x": 0.531377554,
+      "y": -0.172856942,
+      "z": 0.829311967
+    },
+    "head_rotation": {
+      "x": 9.953969,
+      "y": 32.6495171,
+      "z": 359.9689
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.152144,
+        "y": 1.51489043,
+        "z": 6.946604
+      },
+      "direction": {
+        "x": 0.5290947,
+        "y": -0.144609183,
+        "z": 0.8361501
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.14956938E-05,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.21943164,
+      "y": 1.01589036,
+      "z": 8.638022
+    },
+    "target_plane_position": {
+      "x": 0.5520803,
+      "y": 0.0005503595,
+      "z": 0.8337908
+    },
+    "cursor_angular_distance": 5.69501972,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.53418
+  },
+  {
+    "head_origin": {
+      "x": 0.157208189,
+      "y": 1.515994,
+      "z": 6.954998
+    },
+    "head_forward": {
+      "x": 0.5426162,
+      "y": -0.182909787,
+      "z": 0.8198242
+    },
+    "head_rotation": {
+      "x": 10.5392923,
+      "y": 33.4993362,
+      "z": 359.936157
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.157208189,
+        "y": 1.515994,
+        "z": 6.954998
+      },
+      "direction": {
+        "x": 0.5304581,
+        "y": -0.1483566,
+        "z": 0.8346286
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        8.046985E-06,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.227209,
+      "y": 1.016994,
+      "z": 8.644702
+    },
+    "target_plane_position": {
+      "x": 0.5520803,
+      "y": 0.0005503595,
+      "z": 0.8337908
+    },
+    "cursor_angular_distance": 5.478366,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.551971
+  },
+  {
+    "head_origin": {
+      "x": 0.161686271,
+      "y": 1.51741755,
+      "z": 6.96259165
+    },
+    "head_forward": {
+      "x": 0.5563419,
+      "y": -0.181009337,
+      "z": 0.8109989
+    },
+    "head_rotation": {
+      "x": 10.4285574,
+      "y": 34.44996,
+      "z": 359.9753
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.161686271,
+        "y": 1.51741755,
+        "z": 6.96259165
+      },
+      "direction": {
+        "x": 0.533036232,
+        "y": -0.151556328,
+        "z": 0.83240813
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        5.6328895E-06,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.23414969,
+      "y": 1.0184176,
+      "z": 8.650733
+    },
+    "target_plane_position": {
+      "x": 0.5520803,
+      "y": 0.0005503595,
+      "z": 0.8337908
+    },
+    "cursor_angular_distance": 5.295981,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.5676
+  },
+  {
+    "head_origin": {
+      "x": 0.165809184,
+      "y": 1.51793051,
+      "z": 6.969981
+    },
+    "head_forward": {
+      "x": 0.571014464,
+      "y": -0.177034989,
+      "z": 0.80162406
+    },
+    "head_rotation": {
+      "x": 10.1971035,
+      "y": 35.4631042,
+      "z": 0.0471301749
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.165809184,
+        "y": 1.51793051,
+        "z": 6.969981
+      },
+      "direction": {
+        "x": 0.5368121,
+        "y": -0.154061854,
+        "z": 0.829516649
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        3.94302242E-06,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.240141,
+      "y": 1.01893044,
+      "z": 8.656935
+    },
+    "target_plane_position": {
+      "x": 0.5371582,
+      "y": 0.00536339357,
+      "z": 0.843464434
+    },
+    "cursor_angular_distance": 5.16311836,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.584564
+  },
+  {
+    "head_origin": {
+      "x": 0.169522226,
+      "y": 1.517964,
+      "z": 6.97703838
+    },
+    "head_forward": {
+      "x": 0.5846404,
+      "y": -0.178284764,
+      "z": 0.7914608
+    },
+    "head_rotation": {
+      "x": 10.2698679,
+      "y": 36.4527321,
+      "z": 0.11739625
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.169522226,
+        "y": 1.517964,
+        "z": 6.97703838
+      },
+      "direction": {
+        "x": 0.541580856,
+        "y": -0.156454429,
+        "z": 0.8259616
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        2.76011565E-06,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.243854,
+      "y": 1.018964,
+      "z": 8.663992
+    },
+    "target_plane_position": {
+      "x": 0.5371582,
+      "y": 0.00536339357,
+      "z": 0.843464434
+    },
+    "cursor_angular_distance": 5.06341457,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.6016
+  },
+  {
+    "head_origin": {
+      "x": 0.173354134,
+      "y": 1.51841426,
+      "z": 6.98425865
+    },
+    "head_forward": {
+      "x": 0.596873939,
+      "y": -0.180585772,
+      "z": 0.7817483
+    },
+    "head_rotation": {
+      "x": 10.403882,
+      "y": 37.3621559,
+      "z": 0.23726882
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.173354134,
+        "y": 1.51841426,
+        "z": 6.98425865
+      },
+      "direction": {
+        "x": 0.5471103,
+        "y": -0.158847868,
+        "z": 0.8218503
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.932081E-06,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.247686,
+      "y": 1.01941419,
+      "z": 8.671212
+    },
+    "target_plane_position": {
+      "x": 0.5371582,
+      "y": 0.00536339357,
+      "z": 0.843464434
+    },
+    "cursor_angular_distance": 5.00026,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.618622
+  },
+  {
+    "head_origin": {
+      "x": 0.176870584,
+      "y": 1.51889968,
+      "z": 6.991533
+    },
+    "head_forward": {
+      "x": 0.607619464,
+      "y": -0.1796402,
+      "z": 0.773645937
+    },
+    "head_rotation": {
+      "x": 10.3488035,
+      "y": 38.1459923,
+      "z": 0.3580627
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.176870584,
+        "y": 1.51889968,
+        "z": 6.991533
+      },
+      "direction": {
+        "x": 0.5531708,
+        "y": -0.16092208,
+        "z": 0.8173778
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        1.35245671E-06,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.25110674,
+      "y": 1.01989961,
+      "z": 8.678547
+    },
+    "target_plane_position": {
+      "x": 0.529320955,
+      "y": 0.0151818395,
+      "z": 0.848285854
+    },
+    "cursor_angular_distance": 5.000926,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.635559
+  },
+  {
+    "head_origin": {
+      "x": 0.1807836,
+      "y": 1.51938462,
+      "z": 6.998933
+    },
+    "head_forward": {
+      "x": 0.6168085,
+      "y": -0.1763288,
+      "z": 0.7671085
+    },
+    "head_rotation": {
+      "x": 10.1559963,
+      "y": 38.8016968,
+      "z": 0.4554366
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.1807836,
+        "y": 1.51938462,
+        "z": 6.998933
+      },
+      "direction": {
+        "x": 0.5595485,
+        "y": -0.162474155,
+        "z": 0.8127163
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.01978234,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        9.467197E-07,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.25478482,
+      "y": 1.02038455,
+      "z": 8.686096
+    },
+    "target_plane_position": {
+      "x": 0.529320955,
+      "y": 0.0151818395,
+      "z": 0.848285854
+    },
+    "cursor_angular_distance": 5.0793705,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.6515
+  },
+  {
+    "head_origin": {
+      "x": 0.184284717,
+      "y": 1.51926768,
+      "z": 7.006308
+    },
+    "head_forward": {
+      "x": 0.6245781,
+      "y": -0.172740042,
+      "z": 0.761618733
+    },
+    "head_rotation": {
+      "x": 9.947169,
+      "y": 39.35403,
+      "z": 0.49788323
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.184284717,
+        "y": 1.51926768,
+        "z": 7.006308
+      },
+      "direction": {
+        "x": 0.5660673,
+        "y": -0.163525879,
+        "z": 0.807977259
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        6.62703769E-07,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.25793386,
+      "y": 1.02026772,
+      "z": 8.693696
+    },
+    "target_plane_position": {
+      "x": 0.529320955,
+      "y": 0.0151818395,
+      "z": 0.848285854
+    },
+    "cursor_angular_distance": 5.230308,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.6669
+  },
+  {
+    "head_origin": {
+      "x": 0.18820934,
+      "y": 1.51911318,
+      "z": 7.01395941
+    },
+    "head_forward": {
+      "x": 0.631145954,
+      "y": -0.167812735,
+      "z": 0.7572937
+    },
+    "head_rotation": {
+      "x": 9.660671,
+      "y": 39.8085976,
+      "z": 0.444287926
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.18820934,
+        "y": 1.51911318,
+        "z": 7.01395941
+      },
+      "direction": {
+        "x": 0.572589636,
+        "y": -0.163993388,
+        "z": 0.803273
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        4.63892633E-07,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.26140618,
+      "y": 1.02011323,
+      "z": 8.701635
+    },
+    "target_plane_position": {
+      "x": 0.529320955,
+      "y": 0.0151818395,
+      "z": 0.848285854
+    },
+    "cursor_angular_distance": 5.44827175,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.684723
+  },
+  {
+    "head_origin": {
+      "x": 0.191852659,
+      "y": 1.51882255,
+      "z": 7.021335
+    },
+    "head_forward": {
+      "x": 0.636343062,
+      "y": -0.166683123,
+      "z": 0.7531828
+    },
+    "head_rotation": {
+      "x": 9.595024,
+      "y": 40.1935272,
+      "z": 0.285767674
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.191852659,
+        "y": 1.51882255,
+        "z": 7.021335
+      },
+      "direction": {
+        "x": 0.5789784,
+        "y": -0.164303362,
+        "z": 0.7986168
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        3.24724851E-07,
+        0.0160243753,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.26463044,
+      "y": 1.0198226,
+      "z": 8.709277
+    },
+    "target_plane_position": {
+      "x": 0.5387536,
+      "y": 0.0190884061,
+      "z": 0.8422471
+    },
+    "cursor_angular_distance": 5.69932032,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.7014
+  },
+  {
+    "head_origin": {
+      "x": 0.196036458,
+      "y": 1.51815069,
+      "z": 7.028829
+    },
+    "head_forward": {
+      "x": 0.6405777,
+      "y": -0.165280059,
+      "z": 0.7498952
+    },
+    "head_rotation": {
+      "x": 9.513504,
+      "y": 40.50471,
+      "z": 0.0971583
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.196036458,
+        "y": 1.51815069,
+        "z": 7.028829
+      },
+      "direction": {
+        "x": 0.5851476,
+        "y": -0.164443225,
+        "z": 0.7940786
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        2.273074E-07,
+        0.0496398844,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.26853967,
+      "y": 1.01915073,
+      "z": 8.716946
+    },
+    "target_plane_position": {
+      "x": 0.5387536,
+      "y": 0.0190884061,
+      "z": 0.8422471
+    },
+    "cursor_angular_distance": 5.971136,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.719543
+  },
+  {
+    "head_origin": {
+      "x": 0.199710459,
+      "y": 1.51667285,
+      "z": 7.036283
+    },
+    "head_forward": {
+      "x": 0.6441649,
+      "y": -0.165740222,
+      "z": 0.746714
+    },
+    "head_rotation": {
+      "x": 9.540238,
+      "y": 40.78323,
+      "z": 359.8985
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.199710459,
+        "y": 1.51667285,
+        "z": 7.036283
+      },
+      "direction": {
+        "x": 0.591054738,
+        "y": -0.164611265,
+        "z": 0.78965646
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.00279237446,
+        0.094330065,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.27205038,
+      "y": 1.01767278,
+      "z": 8.72450352
+    },
+    "target_plane_position": {
+      "x": 0.5387536,
+      "y": 0.0190884061,
+      "z": 0.8422471
+    },
+    "cursor_angular_distance": 6.24795771,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.736359
+  },
+  {
+    "head_origin": {
+      "x": 0.203366131,
+      "y": 1.51517093,
+      "z": 7.043456
+    },
+    "head_forward": {
+      "x": 0.6465763,
+      "y": -0.171094239,
+      "z": 0.743415
+    },
+    "head_rotation": {
+      "x": 9.851446,
+      "y": 41.0147247,
+      "z": 359.5842
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.203366131,
+        "y": 1.51517093,
+        "z": 7.043456
+      },
+      "direction": {
+        "x": 0.59660995,
+        "y": -0.165282056,
+        "z": 0.785327256
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0204728488,
+        0.145654336,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.275704,
+      "y": 1.016171,
+      "z": 8.731678
+    },
+    "target_plane_position": {
+      "x": 0.544871569,
+      "y": 0.0202468261,
+      "z": 0.8382751
+    },
+    "cursor_angular_distance": 6.50273371,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.752319
+  },
+  {
+    "head_origin": {
+      "x": 0.206757367,
+      "y": 1.51376081,
+      "z": 7.050852
+    },
+    "head_forward": {
+      "x": 0.648916543,
+      "y": -0.178952739,
+      "z": 0.739515543
+    },
+    "head_rotation": {
+      "x": 10.3087664,
+      "y": 41.2665863,
+      "z": 359.2417
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.206757367,
+        "y": 1.51376081,
+        "z": 7.050852
+      },
+      "direction": {
+        "x": 0.6018461,
+        "y": -0.166652516,
+        "z": 0.7810305
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0458683372,
+        0.200850889,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.27927971,
+      "y": 1.01476073,
+      "z": 8.738956
+    },
+    "target_plane_position": {
+      "x": 0.544871569,
+      "y": 0.0202468261,
+      "z": 0.8382751
+    },
+    "cursor_angular_distance": 6.72840643,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.7664
+  },
+  {
+    "head_origin": {
+      "x": 0.210350409,
+      "y": 1.51269794,
+      "z": 7.05779552
+    },
+    "head_forward": {
+      "x": 0.650949061,
+      "y": -0.187076226,
+      "z": 0.7357091
+    },
+    "head_rotation": {
+      "x": 10.7822046,
+      "y": 41.50212,
+      "z": 358.98468
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.210350409,
+        "y": 1.51269794,
+        "z": 7.05779552
+      },
+      "direction": {
+        "x": 0.606766939,
+        "y": -0.1686812,
+        "z": 0.776776
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0734344,
+        0.258454561,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.28322625,
+      "y": 1.01369786,
+      "z": 8.745675
+    },
+    "target_plane_position": {
+      "x": 0.544871569,
+      "y": 0.0202468261,
+      "z": 0.8382751
+    },
+    "cursor_angular_distance": 6.92761469,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.784637
+  },
+  {
+    "head_origin": {
+      "x": 0.213914126,
+      "y": 1.512022,
+      "z": 7.065034
+    },
+    "head_forward": {
+      "x": 0.6533272,
+      "y": -0.193656087,
+      "z": 0.731888533
+    },
+    "head_rotation": {
+      "x": 11.1662264,
+      "y": 41.7539978,
+      "z": 358.8302
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.213914126,
+        "y": 1.512022,
+        "z": 7.065034
+      },
+      "direction": {
+        "x": 0.6114385,
+        "y": -0.171153739,
+        "z": 0.7725605
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0991928354,
+        0.317547917,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.28725767,
+      "y": 1.013022,
+      "z": 8.752616
+    },
+    "target_plane_position": {
+      "x": 0.544871569,
+      "y": 0.0202468261,
+      "z": 0.8382751
+    },
+    "cursor_angular_distance": 7.112568,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.801331
+  },
+  {
+    "head_origin": {
+      "x": 0.2172391,
+      "y": 1.51155889,
+      "z": 7.0726285
+    },
+    "head_forward": {
+      "x": 0.656492054,
+      "y": -0.198730245,
+      "z": 0.727684259
+    },
+    "head_rotation": {
+      "x": 11.4627171,
+      "y": 42.055706,
+      "z": 358.6878
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2172391,
+        "y": 1.51155889,
+        "z": 7.0726285
+      },
+      "direction": {
+        "x": 0.615963936,
+        "y": -0.173880741,
+        "z": 0.768345
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.120854273,
+        0.377508581,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.29113925,
+      "y": 1.01255894,
+      "z": 8.759856
+    },
+    "target_plane_position": {
+      "x": 0.544871569,
+      "y": 0.0202468261,
+      "z": 0.8382751
+    },
+    "cursor_angular_distance": 7.29541159,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.817932
+  },
+  {
+    "head_origin": {
+      "x": 0.220630422,
+      "y": 1.51084125,
+      "z": 7.08071327
+    },
+    "head_forward": {
+      "x": 0.6600699,
+      "y": -0.201859564,
+      "z": 0.7235748
+    },
+    "head_rotation": {
+      "x": 11.6457224,
+      "y": 42.3721428,
+      "z": 358.559753
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.220630422,
+        "y": 1.51084125,
+        "z": 7.08071327
+      },
+      "direction": {
+        "x": 0.620396137,
+        "y": -0.176646963,
+        "z": 0.764136732
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.1373944,
+        0.43798703,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.29513812,
+      "y": 1.0118413,
+      "z": 8.767554
+    },
+    "target_plane_position": {
+      "x": 0.544871569,
+      "y": 0.0202468261,
+      "z": 0.8382751
+    },
+    "cursor_angular_distance": 7.485428,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.833954
+  },
+  {
+    "head_origin": {
+      "x": 0.223703742,
+      "y": 1.51023817,
+      "z": 7.08828449
+    },
+    "head_forward": {
+      "x": 0.6641763,
+      "y": -0.202905521,
+      "z": 0.719513237
+    },
+    "head_rotation": {
+      "x": 11.7069178,
+      "y": 42.7098274,
+      "z": 358.44754
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.223703742,
+        "y": 1.51023817,
+        "z": 7.08828449
+      },
+      "direction": {
+        "x": 0.6247934,
+        "y": -0.179244772,
+        "z": 0.7599372
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.14872694,
+        0.4986257,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.29891753,
+      "y": 1.0112381,
+      "z": 8.774675
+    },
+    "target_plane_position": {
+      "x": 0.544871569,
+      "y": 0.0202468261,
+      "z": 0.8382751
+    },
+    "cursor_angular_distance": 7.68816948,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.852142
+  },
+  {
+    "head_origin": {
+      "x": 0.226722151,
+      "y": 1.509644,
+      "z": 7.09583426
+    },
+    "head_forward": {
+      "x": 0.668605864,
+      "y": -0.204467133,
+      "z": 0.714954138
+    },
+    "head_rotation": {
+      "x": 11.7983074,
+      "y": 43.0813446,
+      "z": 358.3756
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.226722151,
+        "y": 1.509644,
+        "z": 7.09583426
+      },
+      "direction": {
+        "x": 0.6291942,
+        "y": -0.181741923,
+        "z": 0.7557015
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.155423731,
+        0.5589268,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.30261409,
+      "y": 1.010644,
+      "z": 8.781793
+    },
+    "target_plane_position": {
+      "x": 0.544871569,
+      "y": 0.0202468261,
+      "z": 0.8382751
+    },
+    "cursor_angular_distance": 7.90651274,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.8677
+  },
+  {
+    "head_origin": {
+      "x": 0.229701415,
+      "y": 1.50887072,
+      "z": 7.103838
+    },
+    "head_forward": {
+      "x": 0.6737956,
+      "y": -0.203916639,
+      "z": 0.7102236
+    },
+    "head_rotation": {
+      "x": 11.7660875,
+      "y": 43.49229,
+      "z": 358.313171
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.229701415,
+        "y": 1.50887072,
+        "z": 7.103838
+      },
+      "direction": {
+        "x": 0.633672059,
+        "y": -0.183941931,
+        "z": 0.7514153
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.15791139,
+        0.618939757,
+        0.0,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.30639124,
+      "y": 1.00987077,
+      "z": 8.789288
+    },
+    "target_plane_position": {
+      "x": 0.549955547,
+      "y": 0.02057581,
+      "z": 0.834940434
+    },
+    "cursor_angular_distance": 8.142975,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.884918
+  },
+  {
+    "head_origin": {
+      "x": 0.2324278,
+      "y": 1.50819671,
+      "z": 7.111875
+    },
+    "head_forward": {
+      "x": 0.67826277,
+      "y": -0.2030754,
+      "z": 0.706201136
+    },
+    "head_rotation": {
+      "x": 11.7168579,
+      "y": 43.8439255,
+      "z": 358.288025
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2324278,
+        "y": 1.50819671,
+        "z": 7.111875
+      },
+      "direction": {
+        "x": 0.638145566,
+        "y": -0.185844362,
+        "z": 0.7471495
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.157054,
+        0.6783632,
+        0.00137591967,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.3099941,
+      "y": 1.00919676,
+      "z": 8.796764
+    },
+    "target_plane_position": {
+      "x": 0.549955547,
+      "y": 0.02057581,
+      "z": 0.834940434
+    },
+    "cursor_angular_distance": 8.391103,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.901459
+  },
+  {
+    "head_origin": {
+      "x": 0.235032529,
+      "y": 1.50734663,
+      "z": 7.119965
+    },
+    "head_forward": {
+      "x": 0.6821752,
+      "y": -0.2044451,
+      "z": 0.702025056
+    },
+    "head_rotation": {
+      "x": 11.7970171,
+      "y": 44.17842,
+      "z": 358.2452
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.235032529,
+        "y": 1.50734663,
+        "z": 7.119965
+      },
+      "direction": {
+        "x": 0.642562866,
+        "y": -0.187694475,
+        "z": 0.7428889
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.153502882,
+        0.7365456,
+        0.009935008,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.31355464,
+      "y": 1.00834656,
+      "z": 8.804242
+    },
+    "target_plane_position": {
+      "x": 0.549955547,
+      "y": 0.02057581,
+      "z": 0.834940434
+    },
+    "cursor_angular_distance": 8.641793,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.9182
+  },
+  {
+    "head_origin": {
+      "x": 0.237363547,
+      "y": 1.50656378,
+      "z": 7.1281786
+    },
+    "head_forward": {
+      "x": 0.6855061,
+      "y": -0.203838214,
+      "z": 0.6989502
+    },
+    "head_rotation": {
+      "x": 11.7614975,
+      "y": 44.443634,
+      "z": 358.207581
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.237363547,
+        "y": 1.50656378,
+        "z": 7.1281786
+      },
+      "direction": {
+        "x": 0.646866739,
+        "y": -0.189302757,
+        "z": 0.7387341
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.147085533,
+        0.7928107,
+        0.0225513186,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.31694973,
+      "y": 1.00756383,
+      "z": 8.811774
+    },
+    "target_plane_position": {
+      "x": 0.5566389,
+      "y": 0.0210558847,
+      "z": 0.8304876
+    },
+    "cursor_angular_distance": 8.891433,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.9353
+  },
+  {
+    "head_origin": {
+      "x": 0.2397117,
+      "y": 1.50541627,
+      "z": 7.13639069
+    },
+    "head_forward": {
+      "x": 0.68869096,
+      "y": -0.202547461,
+      "z": 0.696189165
+    },
+    "head_rotation": {
+      "x": 11.6859674,
+      "y": 44.68978,
+      "z": 358.1701
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2397117,
+        "y": 1.50541627,
+        "z": 7.13639069
+      },
+      "direction": {
+        "x": 0.6510532,
+        "y": -0.19062601,
+        "z": 0.7347049
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.138345882,
+        0.8425739,
+        0.0364620537,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.320545,
+      "y": 1.00641632,
+      "z": 8.819186
+    },
+    "target_plane_position": {
+      "x": 0.5566389,
+      "y": 0.0210558847,
+      "z": 0.8304876
+    },
+    "cursor_angular_distance": 9.136112,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.951355
+  },
+  {
+    "head_origin": {
+      "x": 0.244125769,
+      "y": 1.504324,
+      "z": 7.14521742
+    },
+    "head_forward": {
+      "x": 0.690979064,
+      "y": -0.202953264,
+      "z": 0.6937996
+    },
+    "head_rotation": {
+      "x": 11.7097111,
+      "y": 44.883297,
+      "z": 358.16214
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.244125769,
+        "y": 1.504324,
+        "z": 7.14521742
+      },
+      "direction": {
+        "x": 0.6550462,
+        "y": -0.191857234,
+        "z": 0.730825067
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.127949163,
+        0.8726983,
+        0.0496677719,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.3263216,
+      "y": 1.00532389,
+      "z": 8.827137
+    },
+    "target_plane_position": {
+      "x": 0.5566389,
+      "y": 0.0210558847,
+      "z": 0.8304876
+    },
+    "cursor_angular_distance": 9.368904,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.9687
+  },
+  {
+    "head_origin": {
+      "x": 0.246221989,
+      "y": 1.50271773,
+      "z": 7.15343857
+    },
+    "head_forward": {
+      "x": 0.6925974,
+      "y": -0.2036638,
+      "z": 0.6919755
+    },
+    "head_rotation": {
+      "x": 11.75129,
+      "y": 45.02573,
+      "z": 358.127441
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.246221989,
+        "y": 1.50271773,
+        "z": 7.15343857
+      },
+      "direction": {
+        "x": 0.6587976,
+        "y": -0.193034723,
+        "z": 0.727134
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.115978971,
+        0.8819496,
+        0.06143999,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.32984793,
+      "y": 1.00371766,
+      "z": 8.834436
+    },
+    "target_plane_position": {
+      "x": 0.5566389,
+      "y": 0.0210558847,
+      "z": 0.8304876
+    },
+    "cursor_angular_distance": 9.586527,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 374.9838
+  },
+  {
+    "head_origin": {
+      "x": 0.249386758,
+      "y": 1.5014534,
+      "z": 7.16201353
+    },
+    "head_forward": {
+      "x": 0.693588436,
+      "y": -0.204999045,
+      "z": 0.6905871
+    },
+    "head_rotation": {
+      "x": 11.829443,
+      "y": 45.12423,
+      "z": 358.124664
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.249386758,
+        "y": 1.5014534,
+        "z": 7.16201353
+      },
+      "direction": {
+        "x": 0.662268937,
+        "y": -0.194224581,
+        "z": 0.723655045
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.102569208,
+        0.8761643,
+        0.0715023354,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.33451772,
+      "y": 1.00245333,
+      "z": 8.842041
+    },
+    "target_plane_position": {
+      "x": 0.5566389,
+      "y": 0.0210558847,
+      "z": 0.8304876
+    },
+    "cursor_angular_distance": 9.784461,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.001526
+  },
+  {
+    "head_origin": {
+      "x": 0.251303434,
+      "y": 1.50029552,
+      "z": 7.170687
+    },
+    "head_forward": {
+      "x": 0.693926752,
+      "y": -0.206992313,
+      "z": 0.689652
+    },
+    "head_rotation": {
+      "x": 11.9461517,
+      "y": 45.1770134,
+      "z": 358.091431
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.251303434,
+        "y": 1.50029552,
+        "z": 7.170687
+      },
+      "direction": {
+        "x": 0.6654245,
+        "y": -0.195489779,
+        "z": 0.720412433
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.08779694,
+        0.8605562,
+        0.08001332,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.33790839,
+      "y": 1.00129557,
+      "z": 8.849761
+    },
+    "target_plane_position": {
+      "x": 0.5566389,
+      "y": 0.0210558847,
+      "z": 0.8304876
+    },
+    "cursor_angular_distance": 9.962434,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.018463
+  },
+  {
+    "head_origin": {
+      "x": 0.24580954,
+      "y": 1.491776,
+      "z": 7.1544
+    },
+    "head_forward": {
+      "x": 0.6934793,
+      "y": -0.209550723,
+      "z": 0.6893294
+    },
+    "head_rotation": {
+      "x": 12.0960255,
+      "y": 45.1719437,
+      "z": 358.1623
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.24580954,
+        "y": 1.491776,
+        "z": 7.1544
+      },
+      "direction": {
+        "x": 0.6682179,
+        "y": -0.196877882,
+        "z": 0.7174428
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0716936,
+        0.8389456,
+        0.0873752,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.33392155,
+      "y": 0.992776,
+      "z": 8.832498
+    },
+    "target_plane_position": {
+      "x": 0.5566389,
+      "y": 0.0210558847,
+      "z": 0.8304876
+    },
+    "cursor_angular_distance": 10.1141968,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.034882
+  },
+  {
+    "head_origin": {
+      "x": 0.248177677,
+      "y": 1.4933722,
+      "z": 7.163673
+    },
+    "head_forward": {
+      "x": 0.6923482,
+      "y": -0.215773523,
+      "z": 0.6885462
+    },
+    "head_rotation": {
+      "x": 12.4609118,
+      "y": 45.157753,
+      "z": 358.016052
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.248177677,
+        "y": 1.4933722,
+        "z": 7.163673
+      },
+      "direction": {
+        "x": 0.670623243,
+        "y": -0.198735982,
+        "z": 0.714680731
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.05433452,
+        0.814313,
+        0.094196856,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.33793473,
+      "y": 0.9943722,
+      "z": 8.840703
+    },
+    "target_plane_position": {
+      "x": 0.5652551,
+      "y": 0.0211926289,
+      "z": 0.8246439
+    },
+    "cursor_angular_distance": 10.2322779,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.052673
+  },
+  {
+    "head_origin": {
+      "x": 0.2522288,
+      "y": 1.49471581,
+      "z": 7.17442226
+    },
+    "head_forward": {
+      "x": 0.6924243,
+      "y": -0.212118074,
+      "z": 0.68960464
+    },
+    "head_rotation": {
+      "x": 12.2465067,
+      "y": 45.1168861,
+      "z": 357.826172
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2522288,
+        "y": 1.49471581,
+        "z": 7.17442226
+      },
+      "direction": {
+        "x": 0.672786951,
+        "y": -0.2000522,
+        "z": 0.7122757
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0380341634,
+        0.7886318,
+        0.102024525,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.34364414,
+      "y": 0.9957158,
+      "z": 8.850373
+    },
+    "target_plane_position": {
+      "x": 0.5652551,
+      "y": 0.0211926289,
+      "z": 0.8246439
+    },
+    "cursor_angular_distance": 10.3367748,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.068054
+  },
+  {
+    "head_origin": {
+      "x": 0.254128754,
+      "y": 1.49379015,
+      "z": 7.183993
+    },
+    "head_forward": {
+      "x": 0.692996144,
+      "y": -0.20087409,
+      "z": 0.6923915
+    },
+    "head_rotation": {
+      "x": 11.5880785,
+      "y": 45.0250053,
+      "z": 357.8468
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.254128754,
+        "y": 1.49379015,
+        "z": 7.183993
+      },
+      "direction": {
+        "x": 0.674781442,
+        "y": -0.200139433,
+        "z": 0.710362256
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.026623914,
+        0.7635584,
+        0.109159216,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.34738111,
+      "y": 0.994790137,
+      "z": 8.858747
+    },
+    "target_plane_position": {
+      "x": 0.5652551,
+      "y": 0.0211926289,
+      "z": 0.8246439
+    },
+    "cursor_angular_distance": 10.429,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.083984
+  },
+  {
+    "head_origin": {
+      "x": 0.257313073,
+      "y": 1.49442947,
+      "z": 7.19418859
+    },
+    "head_forward": {
+      "x": 0.691004455,
+      "y": -0.202109635,
+      "z": 0.6940206
+    },
+    "head_rotation": {
+      "x": 11.6603527,
+      "y": 44.8752251,
+      "z": 357.779877
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.257313073,
+        "y": 1.49442947,
+        "z": 7.19418859
+      },
+      "direction": {
+        "x": 0.6763789,
+        "y": -0.200336173,
+        "z": 0.7087857
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0186367389,
+        0.741210341,
+        0.112793453,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.35242248,
+      "y": 0.995429456,
+      "z": 8.867728
+    },
+    "target_plane_position": {
+      "x": 0.5652551,
+      "y": 0.0211926289,
+      "z": 0.8246439
+    },
+    "cursor_angular_distance": 10.4902506,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.101471
+  },
+  {
+    "head_origin": {
+      "x": 0.2605229,
+      "y": 1.49572265,
+      "z": 7.205786
+    },
+    "head_forward": {
+      "x": 0.689522266,
+      "y": -0.198640049,
+      "z": 0.696491957
+    },
+    "head_rotation": {
+      "x": 11.4574442,
+      "y": 44.7118835,
+      "z": 357.718781
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2605229,
+        "y": 1.49572265,
+        "z": 7.205786
+      },
+      "direction": {
+        "x": 0.6776701,
+        "y": -0.200173631,
+        "z": 0.7075972
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.013045717,
+        0.722207367,
+        0.114736035,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.35788465,
+      "y": 0.996722639,
+      "z": 8.87785
+    },
+    "target_plane_position": {
+      "x": 0.5898275,
+      "y": 0.0232422911,
+      "z": 0.807194769
+    },
+    "cursor_angular_distance": 10.516777,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.119781
+  },
+  {
+    "head_origin": {
+      "x": 0.2641577,
+      "y": 1.49802411,
+      "z": 7.216965
+    },
+    "head_forward": {
+      "x": 0.687878847,
+      "y": -0.196778387,
+      "z": 0.698642135
+    },
+    "head_rotation": {
+      "x": 11.3486328,
+      "y": 44.55524,
+      "z": 357.6271
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2641577,
+        "y": 1.49802411,
+        "z": 7.216965
+      },
+      "direction": {
+        "x": 0.678671241,
+        "y": -0.199844271,
+        "z": 0.7067305
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.009132002,
+        0.7077828,
+        0.115214787,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.36409879,
+      "y": 0.9990241,
+      "z": 8.887333
+    },
+    "target_plane_position": {
+      "x": 0.5898275,
+      "y": 0.0232422911,
+      "z": 0.807194769
+    },
+    "cursor_angular_distance": 10.5111628,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.1369
+  },
+  {
+    "head_origin": {
+      "x": 0.267384827,
+      "y": 1.49996388,
+      "z": 7.22854662
+    },
+    "head_forward": {
+      "x": 0.686301649,
+      "y": -0.198599666,
+      "z": 0.6996772
+    },
+    "head_rotation": {
+      "x": 11.4550838,
+      "y": 44.44708,
+      "z": 357.483
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.267384827,
+        "y": 1.49996388,
+        "z": 7.22854662
+      },
+      "direction": {
+        "x": 0.679418266,
+        "y": -0.19972384,
+        "z": 0.7060465
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.006392401,
+        0.6983938,
+        0.114839435,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.37033319,
+      "y": 1.00096393,
+      "z": 8.896931
+    },
+    "target_plane_position": {
+      "x": 0.5898275,
+      "y": 0.0232422911,
+      "z": 0.807194769
+    },
+    "cursor_angular_distance": 10.47127,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.153229
+  },
+  {
+    "head_origin": {
+      "x": 0.2711459,
+      "y": 1.50273776,
+      "z": 7.240928
+    },
+    "head_forward": {
+      "x": 0.685309052,
+      "y": -0.197745368,
+      "z": 0.700891137
+    },
+    "head_rotation": {
+      "x": 11.4051456,
+      "y": 44.3559647,
+      "z": 357.337341
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2711459,
+        "y": 1.50273776,
+        "z": 7.240928
+      },
+      "direction": {
+        "x": 0.6799947,
+        "y": -0.199531361,
+        "z": 0.705545843
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.004474681,
+        0.6940089,
+        0.114989817,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.37740278,
+      "y": 1.00373769,
+      "z": 8.90712
+    },
+    "target_plane_position": {
+      "x": 0.5898275,
+      "y": 0.0232422911,
+      "z": 0.807194769
+    },
+    "cursor_angular_distance": 10.4087181,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.171661
+  },
+  {
+    "head_origin": {
+      "x": 0.2745691,
+      "y": 1.50554919,
+      "z": 7.25375128
+    },
+    "head_forward": {
+      "x": 0.684642732,
+      "y": -0.197199881,
+      "z": 0.701695561
+    },
+    "head_rotation": {
+      "x": 11.3732634,
+      "y": 44.29526,
+      "z": 357.149078
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2745691,
+        "y": 1.50554919,
+        "z": 7.25375128
+      },
+      "direction": {
+        "x": 0.680449,
+        "y": -0.199304372,
+        "z": 0.7051718
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.00313227647,
+        0.694363832,
+        0.115714155,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.38451052,
+      "y": 1.00654912,
+      "z": 8.917491
+    },
+    "target_plane_position": {
+      "x": 0.5941707,
+      "y": 0.0246306024,
+      "z": 0.803961754
+    },
+    "cursor_angular_distance": 10.3246822,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.185242
+  },
+  {
+    "head_origin": {
+      "x": 0.278470218,
+      "y": 1.50717807,
+      "z": 7.266686
+    },
+    "head_forward": {
+      "x": 0.6847639,
+      "y": -0.191807717,
+      "z": 0.703070641
+    },
+    "head_rotation": {
+      "x": 11.0582991,
+      "y": 44.2442627,
+      "z": 357.061737
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.278470218,
+        "y": 1.50717807,
+        "z": 7.266686
+      },
+      "direction": {
+        "x": 0.6808718,
+        "y": -0.198574468,
+        "z": 0.7049694
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.00219259341,
+        0.6991947,
+        0.117058761,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.39205337,
+      "y": 1.008178,
+      "z": 8.92799
+    },
+    "target_plane_position": {
+      "x": 0.5941707,
+      "y": 0.0246306024,
+      "z": 0.803961754
+    },
+    "cursor_angular_distance": 10.2419815,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.2024
+  },
+  {
+    "head_origin": {
+      "x": 0.281246215,
+      "y": 1.5085752,
+      "z": 7.27791262
+    },
+    "head_forward": {
+      "x": 0.6844746,
+      "y": -0.185867637,
+      "z": 0.7049453
+    },
+    "head_rotation": {
+      "x": 10.7117214,
+      "y": 44.1559,
+      "z": 357.019318
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.281246215,
+        "y": 1.5085752,
+        "z": 7.27791262
+      },
+      "direction": {
+        "x": 0.681228,
+        "y": -0.197337985,
+        "z": 0.7049725
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.00153481541,
+        0.707767,
+        0.117467888,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.3986069,
+      "y": 1.00957513,
+      "z": 8.936679
+    },
+    "target_plane_position": {
+      "x": 0.5941707,
+      "y": 0.0246306024,
+      "z": 0.803961754
+    },
+    "cursor_angular_distance": 10.1527071,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.2188
+  },
+  {
+    "head_origin": {
+      "x": 0.284883022,
+      "y": 1.51120865,
+      "z": 7.289249
+    },
+    "head_forward": {
+      "x": 0.6837061,
+      "y": -0.184052676,
+      "z": 0.7061661
+    },
+    "head_rotation": {
+      "x": 10.6059065,
+      "y": 44.0741959,
+      "z": 356.820282
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.284883022,
+        "y": 1.51120865,
+        "z": 7.289249
+      },
+      "direction": {
+        "x": 0.681474864,
+        "y": -0.196045086,
+        "z": 0.705094457
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.003318003,
+        0.7199178,
+        0.115906611,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.406144,
+      "y": 1.0122087,
+      "z": 8.945381
+    },
+    "target_plane_position": {
+      "x": 0.6027821,
+      "y": 0.03313068,
+      "z": 0.7972177
+    },
+    "cursor_angular_distance": 10.052206,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.236176
+  },
+  {
+    "head_origin": {
+      "x": 0.288298815,
+      "y": 1.5132314,
+      "z": 7.29989672
+    },
+    "head_forward": {
+      "x": 0.6842417,
+      "y": -0.176974282,
+      "z": 0.7074556
+    },
+    "head_rotation": {
+      "x": 10.19357,
+      "y": 44.0443764,
+      "z": 356.623
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.288298815,
+        "y": 1.5132314,
+        "z": 7.29989672
+      },
+      "direction": {
+        "x": 0.6817561,
+        "y": -0.19418934,
+        "z": 0.7053365
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.009791374,
+        0.7351989,
+        0.112828948,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.41365039,
+      "y": 1.01423144,
+      "z": 8.953252
+    },
+    "target_plane_position": {
+      "x": 0.600490749,
+      "y": 0.03413766,
+      "z": 0.79890275
+    },
+    "cursor_angular_distance": 9.95303249,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.25238
+  },
+  {
+    "head_origin": {
+      "x": 0.2914354,
+      "y": 1.51369929,
+      "z": 7.31026936
+    },
+    "head_forward": {
+      "x": 0.6857933,
+      "y": -0.167590782,
+      "z": 0.708238
+    },
+    "head_rotation": {
+      "x": 9.647771,
+      "y": 44.07758,
+      "z": 356.514923
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2914354,
+        "y": 1.51369929,
+        "z": 7.31026936
+      },
+      "direction": {
+        "x": 0.6821715,
+        "y": -0.191602111,
+        "z": 0.7056421
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0211632438,
+        0.753097832,
+        0.107025668,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.42070758,
+      "y": 1.01469922,
+      "z": 8.960949
+    },
+    "target_plane_position": {
+      "x": 0.600490749,
+      "y": 0.03413766,
+      "z": 0.79890275
+    },
+    "cursor_angular_distance": 9.877369,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.269531
+  },
+  {
+    "head_origin": {
+      "x": 0.2938099,
+      "y": 1.513278,
+      "z": 7.319967
+    },
+    "head_forward": {
+      "x": 0.685958147,
+      "y": -0.166287422,
+      "z": 0.708385468
+    },
+    "head_rotation": {
+      "x": 9.572032,
+      "y": 44.0785065,
+      "z": 356.504517
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2938099,
+        "y": 1.513278,
+        "z": 7.319967
+      },
+      "direction": {
+        "x": 0.682560563,
+        "y": -0.189139709,
+        "z": 0.7059302
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0378614366,
+        0.7717594,
+        0.0969057158,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.42707777,
+      "y": 1.01427794,
+      "z": 8.967906
+    },
+    "target_plane_position": {
+      "x": 0.600490749,
+      "y": 0.03413766,
+      "z": 0.79890275
+    },
+    "cursor_angular_distance": 9.799501,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.2837
+  },
+  {
+    "head_origin": {
+      "x": 0.296389133,
+      "y": 1.51389945,
+      "z": 7.329039
+    },
+    "head_forward": {
+      "x": 0.6855847,
+      "y": -0.1711266,
+      "z": 0.707594037
+    },
+    "head_rotation": {
+      "x": 9.853329,
+      "y": 44.09492,
+      "z": 356.490479
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.296389133,
+        "y": 1.51389945,
+        "z": 7.329039
+      },
+      "direction": {
+        "x": 0.682865441,
+        "y": -0.187386364,
+        "z": 0.7061028
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0578725338,
+        0.7899998,
+        0.0839446858,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.43363166,
+      "y": 1.01489949,
+      "z": 8.974238
+    },
+    "target_plane_position": {
+      "x": 0.600211442,
+      "y": 0.0333200172,
+      "z": 0.7991471
+    },
+    "cursor_angular_distance": 9.71185,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.3
+  },
+  {
+    "head_origin": {
+      "x": 0.2992013,
+      "y": 1.51520646,
+      "z": 7.337915
+    },
+    "head_forward": {
+      "x": 0.68589896,
+      "y": -0.174285,
+      "z": 0.706517756
+    },
+    "head_rotation": {
+      "x": 10.0370522,
+      "y": 44.15163,
+      "z": 356.522766
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.2992013,
+        "y": 1.51520646,
+        "z": 7.337915
+      },
+      "direction": {
+        "x": 0.6831666,
+        "y": -0.186110258,
+        "z": 0.706148863
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.07804182,
+        0.8072641,
+        0.07082573,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.44029474,
+      "y": 1.0162065,
+      "z": 8.980446
+    },
+    "target_plane_position": {
+      "x": 0.600211442,
+      "y": 0.0333200172,
+      "z": 0.7991471
+    },
+    "cursor_angular_distance": 9.624492,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.317139
+  },
+  {
+    "head_origin": {
+      "x": 0.302262872,
+      "y": 1.51661682,
+      "z": 7.347152
+    },
+    "head_forward": {
+      "x": 0.687370241,
+      "y": -0.173805475,
+      "z": 0.705204844
+    },
+    "head_rotation": {
+      "x": 10.0091515,
+      "y": 44.26626,
+      "z": 356.637939
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.302262872,
+        "y": 1.51661682,
+        "z": 7.347152
+      },
+      "direction": {
+        "x": 0.6835816,
+        "y": -0.1849122,
+        "z": 0.7060622
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.09676383,
+        0.82303834,
+        0.058755368,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.44730556,
+      "y": 1.01761675,
+      "z": 8.986932
+    },
+    "target_plane_position": {
+      "x": 0.600211442,
+      "y": 0.0333200172,
+      "z": 0.7991471
+    },
+    "cursor_angular_distance": 9.542521,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.333557
+  },
+  {
+    "head_origin": {
+      "x": 0.304658979,
+      "y": 1.5167942,
+      "z": 7.35562
+    },
+    "head_forward": {
+      "x": 0.6887368,
+      "y": -0.174958333,
+      "z": 0.703584552
+    },
+    "head_rotation": {
+      "x": 10.0762329,
+      "y": 44.3890152,
+      "z": 356.840851
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.304658979,
+        "y": 1.5167942,
+        "z": 7.35562
+      },
+      "direction": {
+        "x": 0.684088051,
+        "y": -0.183943018,
+        "z": 0.705824852
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.114082664,
+        0.836722851,
+        0.047469,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.45342469,
+      "y": 1.01779413,
+      "z": 8.992794
+    },
+    "target_plane_position": {
+      "x": 0.603717148,
+      "y": 0.0310179926,
+      "z": 0.7965949
+    },
+    "cursor_angular_distance": 9.472806,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.350922
+  },
+  {
+    "head_origin": {
+      "x": 0.30744338,
+      "y": 1.51754916,
+      "z": 7.36449
+    },
+    "head_forward": {
+      "x": 0.68982625,
+      "y": -0.180284768,
+      "z": 0.7011684
+    },
+    "head_rotation": {
+      "x": 10.3863468,
+      "y": 44.53282,
+      "z": 357.045959
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.30744338,
+        "y": 1.51754916,
+        "z": 7.36449
+      },
+      "direction": {
+        "x": 0.684649467,
+        "y": -0.18358694,
+        "z": 0.7053731
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.129560977,
+        0.847847,
+        0.0372051038,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.45973229,
+      "y": 1.0185492,
+      "z": 8.999186
+    },
+    "target_plane_position": {
+      "x": 0.603717148,
+      "y": 0.0310179926,
+      "z": 0.7965949
+    },
+    "cursor_angular_distance": 9.406381,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.366058
+  },
+  {
+    "head_origin": {
+      "x": 0.310253918,
+      "y": 1.5179019,
+      "z": 7.372986
+    },
+    "head_forward": {
+      "x": 0.6913547,
+      "y": -0.184901029,
+      "z": 0.6984557
+    },
+    "head_rotation": {
+      "x": 10.6553621,
+      "y": 44.7072563,
+      "z": 357.285675
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.310253918,
+        "y": 1.5179019,
+        "z": 7.372986
+      },
+      "direction": {
+        "x": 0.6853056,
+        "y": -0.183715746,
+        "z": 0.7047019
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.14181067,
+        0.8573797,
+        0.02929947,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.46618271,
+      "y": 1.01890182,
+      "z": 9.00511
+    },
+    "target_plane_position": {
+      "x": 0.603717148,
+      "y": 0.0310179926,
+      "z": 0.7965949
+    },
+    "cursor_angular_distance": 9.337194,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.384247
+  },
+  {
+    "head_origin": {
+      "x": 0.312985331,
+      "y": 1.51833951,
+      "z": 7.381595
+    },
+    "head_forward": {
+      "x": 0.69289887,
+      "y": -0.1879117,
+      "z": 0.696118057
+    },
+    "head_rotation": {
+      "x": 10.8309383,
+      "y": 44.86721,
+      "z": 357.592621
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.312985331,
+        "y": 1.51833951,
+        "z": 7.381595
+      },
+      "direction": {
+        "x": 0.686050534,
+        "y": -0.1841259,
+        "z": 0.7038698
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.150292978,
+        0.8663615,
+        0.024370579,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.47235477,
+      "y": 1.01933956,
+      "z": 9.011277
+    },
+    "target_plane_position": {
+      "x": 0.603717148,
+      "y": 0.0310179926,
+      "z": 0.7965949
+    },
+    "cursor_angular_distance": 9.277245,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.400421
+  },
+  {
+    "head_origin": {
+      "x": 0.315842658,
+      "y": 1.51811743,
+      "z": 7.3898735
+    },
+    "head_forward": {
+      "x": 0.694276154,
+      "y": -0.190316767,
+      "z": 0.6940894
+    },
+    "head_rotation": {
+      "x": 10.9712706,
+      "y": 45.0077,
+      "z": 357.89267
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.315842658,
+        "y": 1.51811743,
+        "z": 7.3898735
+      },
+      "direction": {
+        "x": 0.6868584,
+        "y": -0.184730992,
+        "z": 0.7029226
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.1552254,
+        0.8750962,
+        0.0222654119,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.47861862,
+      "y": 1.01911736,
+      "z": 9.017126
+    },
+    "target_plane_position": {
+      "x": 0.61257714,
+      "y": 0.0357674137,
+      "z": 0.789601147
+    },
+    "cursor_angular_distance": 9.220576,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.4186
+  },
+  {
+    "head_origin": {
+      "x": 0.3187151,
+      "y": 1.51831877,
+      "z": 7.39837551
+    },
+    "head_forward": {
+      "x": 0.695562541,
+      "y": -0.1927264,
+      "z": 0.6921339
+    },
+    "head_rotation": {
+      "x": 11.1119366,
+      "y": 45.1415634,
+      "z": 358.076935
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.3187151,
+        "y": 1.51831877,
+        "z": 7.39837551
+      },
+      "direction": {
+        "x": 0.6877148,
+        "y": -0.185512558,
+        "z": 0.701878548
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.157047346,
+        0.8838657,
+        0.0226578079,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.484881,
+      "y": 1.01931882,
+      "z": 9.023201
+    },
+    "target_plane_position": {
+      "x": 0.61257714,
+      "y": 0.0357674137,
+      "z": 0.789601147
+    },
+    "cursor_angular_distance": 9.16587448,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.434448
+  },
+  {
+    "head_origin": {
+      "x": 0.321959764,
+      "y": 1.51838219,
+      "z": 7.40677834
+    },
+    "head_forward": {
+      "x": 0.697184563,
+      "y": -0.1931511,
+      "z": 0.6903813
+    },
+    "head_rotation": {
+      "x": 11.1367359,
+      "y": 45.28092,
+      "z": 358.142761
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.321959764,
+        "y": 1.51838219,
+        "z": 7.40677834
+      },
+      "direction": {
+        "x": 0.688646555,
+        "y": -0.1862593,
+        "z": 0.7007666
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.156144038,
+        0.8928939,
+        0.0252906643,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.49159956,
+      "y": 1.01938224,
+      "z": 9.029104
+    },
+    "target_plane_position": {
+      "x": 0.61257714,
+      "y": 0.0357674137,
+      "z": 0.789601147
+    },
+    "cursor_angular_distance": 9.114558,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.451782
+  },
+  {
+    "head_origin": {
+      "x": 0.325144649,
+      "y": 1.51821172,
+      "z": 7.41562366
+    },
+    "head_forward": {
+      "x": 0.6993223,
+      "y": -0.19107151,
+      "z": 0.688796043
+    },
+    "head_rotation": {
+      "x": 11.0153227,
+      "y": 45.43447,
+      "z": 358.161621
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.325144649,
+        "y": 1.51821172,
+        "z": 7.41562366
+      },
+      "direction": {
+        "x": 0.689695239,
+        "y": -0.186730534,
+        "z": 0.6996085
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.15340516,
+        0.901976943,
+        0.0293733627,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.498115,
+      "y": 1.01921177,
+      "z": 9.035543
+    },
+    "target_plane_position": {
+      "x": 0.61257714,
+      "y": 0.0357674137,
+      "z": 0.789601147
+    },
+    "cursor_angular_distance": 9.079934,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.469
+  },
+  {
+    "head_origin": {
+      "x": 0.328555822,
+      "y": 1.51739132,
+      "z": 7.42402124
+    },
+    "head_forward": {
+      "x": 0.701384246,
+      "y": -0.188943684,
+      "z": 0.6872849
+    },
+    "head_rotation": {
+      "x": 10.8911457,
+      "y": 45.58171,
+      "z": 358.1698
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.328555822,
+        "y": 1.51739132,
+        "z": 7.42402124
+      },
+      "direction": {
+        "x": 0.69084394,
+        "y": -0.186948761,
+        "z": 0.6984161
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.150157213,
+        0.9100776,
+        0.0336401463,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.50498867,
+      "y": 1.01839137,
+      "z": 9.041429
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.051454,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.484558
+  },
+  {
+    "head_origin": {
+      "x": 0.331885457,
+      "y": 1.51687729,
+      "z": 7.432719
+    },
+    "head_forward": {
+      "x": 0.70351845,
+      "y": -0.187281713,
+      "z": 0.685556233
+    },
+    "head_rotation": {
+      "x": 10.79419,
+      "y": 45.7408562,
+      "z": 358.17334
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.331885457,
+        "y": 1.51687729,
+        "z": 7.432719
+      },
+      "direction": {
+        "x": 0.692089736,
+        "y": -0.186983883,
+        "z": 0.697172165
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.1472807,
+        0.916759253,
+        0.0372919738,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.51176834,
+      "y": 1.01787734,
+      "z": 9.047611
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.032788,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.501862
+  },
+  {
+    "head_origin": {
+      "x": 0.335528165,
+      "y": 1.51600671,
+      "z": 7.44117546
+    },
+    "head_forward": {
+      "x": 0.705798745,
+      "y": -0.184709564,
+      "z": 0.6839083
+    },
+    "head_rotation": {
+      "x": 10.6442,
+      "y": 45.9024353,
+      "z": 358.179169
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.335528165,
+        "y": 1.51600671,
+        "z": 7.44117546
+      },
+      "direction": {
+        "x": 0.6934373,
+        "y": -0.186765209,
+        "z": 0.6958905
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.145189226,
+        0.921801269,
+        0.0399680957,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.51884091,
+      "y": 1.01700664,
+      "z": 9.053556
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.02539,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.518768
+  },
+  {
+    "head_origin": {
+      "x": 0.3388992,
+      "y": 1.51518238,
+      "z": 7.44989347
+    },
+    "head_forward": {
+      "x": 0.7080479,
+      "y": -0.183805883,
+      "z": 0.68182373
+    },
+    "head_rotation": {
+      "x": 10.59152,
+      "y": 46.0809326,
+      "z": 358.185516
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.3388992,
+        "y": 1.51518238,
+        "z": 7.44989347
+      },
+      "direction": {
+        "x": 0.6948745,
+        "y": -0.18648009,
+        "z": 0.6945323
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.144375592,
+        0.924869657,
+        0.0412153155,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.52569008,
+      "y": 1.01618242,
+      "z": 9.059715
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.02395248,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.5349
+  },
+  {
+    "head_origin": {
+      "x": 0.342827082,
+      "y": 1.51423025,
+      "z": 7.4583993
+    },
+    "head_forward": {
+      "x": 0.7103034,
+      "y": -0.1834943,
+      "z": 0.6795578
+    },
+    "head_rotation": {
+      "x": 10.57336,
+      "y": 46.2672577,
+      "z": 358.221375
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.342827082,
+        "y": 1.51423025,
+        "z": 7.4583993
+      },
+      "direction": {
+        "x": 0.6963933,
+        "y": -0.186192721,
+        "z": 0.693086445
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.144643292,
+        0.9263333,
+        0.0412642546,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.53315234,
+      "y": 1.01523018,
+      "z": 9.06561
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.026957,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.552277
+  },
+  {
+    "head_origin": {
+      "x": 0.346512675,
+      "y": 1.51379907,
+      "z": 7.467183
+    },
+    "head_forward": {
+      "x": 0.7124214,
+      "y": -0.182865858,
+      "z": 0.677507043
+    },
+    "head_rotation": {
+      "x": 10.5367336,
+      "y": 46.438942,
+      "z": 358.2879
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.346512675,
+        "y": 1.51379907,
+        "z": 7.467183
+      },
+      "direction": {
+        "x": 0.697971463,
+        "y": -0.18587257,
+        "z": 0.6915833
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.145670682,
+        0.92656064,
+        0.0404614434,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.54018188,
+      "y": 1.01479912,
+      "z": 9.071912
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.041051,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.568451
+  },
+  {
+    "head_origin": {
+      "x": 0.350625068,
+      "y": 1.513339,
+      "z": 7.47563744
+    },
+    "head_forward": {
+      "x": 0.714291751,
+      "y": -0.182913154,
+      "z": 0.6755221
+    },
+    "head_rotation": {
+      "x": 10.5394888,
+      "y": 46.5978851,
+      "z": 358.399719
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.350625068,
+        "y": 1.513339,
+        "z": 7.47563744
+      },
+      "direction": {
+        "x": 0.699578941,
+        "y": -0.1855884,
+        "z": 0.6900337
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.1473172,
+        0.9257354,
+        0.0389614925,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.54764223,
+      "y": 1.014339,
+      "z": 9.07787
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.056945,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.584564
+  },
+  {
+    "head_origin": {
+      "x": 0.3546325,
+      "y": 1.5133096,
+      "z": 7.48447752
+    },
+    "head_forward": {
+      "x": 0.715875149,
+      "y": -0.181508482,
+      "z": 0.674223661
+    },
+    "head_rotation": {
+      "x": 10.4576349,
+      "y": 46.71623,
+      "z": 358.49054
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.3546325,
+        "y": 1.5133096,
+        "z": 7.48447752
+      },
+      "direction": {
+        "x": 0.701184154,
+        "y": -0.185194939,
+        "z": 0.688508153
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.149292424,
+        0.924234748,
+        0.03707786,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.5548017,
+      "y": 1.01430964,
+      "z": 9.084351
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.08041,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.601837
+  },
+  {
+    "head_origin": {
+      "x": 0.35905,
+      "y": 1.51261294,
+      "z": 7.4930377
+    },
+    "head_forward": {
+      "x": 0.7174202,
+      "y": -0.179933056,
+      "z": 0.6730025
+    },
+    "head_rotation": {
+      "x": 10.3658609,
+      "y": 46.8297157,
+      "z": 358.557526
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.35905,
+        "y": 1.51261294,
+        "z": 7.4930377
+      },
+      "direction": {
+        "x": 0.7027835,
+        "y": -0.184686318,
+        "z": 0.6870129
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.151804537,
+        0.9219023,
+        0.034594845,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.56223822,
+      "y": 1.013613,
+      "z": 9.090642
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.109318,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.619537
+  },
+  {
+    "head_origin": {
+      "x": 0.3629933,
+      "y": 1.51220262,
+      "z": 7.50168276
+    },
+    "head_forward": {
+      "x": 0.7182638,
+      "y": -0.179831952,
+      "z": 0.6721292
+    },
+    "head_rotation": {
+      "x": 10.359972,
+      "y": 46.90043,
+      "z": 358.6024
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.3629933,
+        "y": 1.51220262,
+        "z": 7.50168276
+      },
+      "direction": {
+        "x": 0.7043078,
+        "y": -0.184216917,
+        "z": 0.6855763
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.155017033,
+        0.9185705,
+        0.031352,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.56904578,
+      "y": 1.01320267,
+      "z": 9.097125
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.137252,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.635162
+  },
+  {
+    "head_origin": {
+      "x": 0.367420316,
+      "y": 1.51186979,
+      "z": 7.51002645
+    },
+    "head_forward": {
+      "x": 0.7184688,
+      "y": -0.182077423,
+      "z": 0.67130506
+    },
+    "head_rotation": {
+      "x": 10.4907875,
+      "y": 46.9436569,
+      "z": 358.635345
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.367420316,
+        "y": 1.51186979,
+        "z": 7.51002645
+      },
+      "direction": {
+        "x": 0.705700934,
+        "y": -0.184011683,
+        "z": 0.6841972
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.158612579,
+        0.9147271,
+        0.0276964828,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.57647264,
+      "y": 1.01286983,
+      "z": 9.103197
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.14772,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.653748
+  },
+  {
+    "head_origin": {
+      "x": 0.371656716,
+      "y": 1.51169419,
+      "z": 7.51888037
+    },
+    "head_forward": {
+      "x": 0.7188601,
+      "y": -0.1814187,
+      "z": 0.671064436
+    },
+    "head_rotation": {
+      "x": 10.4524059,
+      "y": 46.9694672,
+      "z": 358.683563
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.371656716,
+        "y": 1.51169419,
+        "z": 7.51888037
+      },
+      "direction": {
+        "x": 0.7069947,
+        "y": -0.183761761,
+        "z": 0.682927847
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.1617162,
+        0.911336,
+        0.0245303884,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.58334494,
+      "y": 1.01269412,
+      "z": 9.110047
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.163131,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.671173
+  },
+  {
+    "head_origin": {
+      "x": 0.3763518,
+      "y": 1.51168811,
+      "z": 7.5273385
+    },
+    "head_forward": {
+      "x": 0.7188868,
+      "y": -0.18248491,
+      "z": 0.6707467
+    },
+    "head_rotation": {
+      "x": 10.5145321,
+      "y": 46.9840622,
+      "z": 358.674927
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.3763518,
+        "y": 1.51168811,
+        "z": 7.5273385
+      },
+      "direction": {
+        "x": 0.708163142,
+        "y": -0.18363966,
+        "z": 0.681749
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.164598957,
+        0.90813,
+        0.02156886,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.59050143,
+      "y": 1.01268816,
+      "z": 9.116628
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.17316151,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.6862
+  },
+  {
+    "head_origin": {
+      "x": 0.3806736,
+      "y": 1.51172519,
+      "z": 7.536121
+    },
+    "head_forward": {
+      "x": 0.718599737,
+      "y": -0.18341276,
+      "z": 0.670801044
+    },
+    "head_rotation": {
+      "x": 10.5686092,
+      "y": 46.9703369,
+      "z": 358.637329
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.3806736,
+        "y": 1.51172519,
+        "z": 7.536121
+      },
+      "direction": {
+        "x": 0.7091875,
+        "y": -0.183619335,
+        "z": 0.6806889
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.166954,
+        0.9054135,
+        0.0191312972,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.59713769,
+      "y": 1.01272511,
+      "z": 9.123639
+    },
+    "target_plane_position": {
+      "x": 0.622249,
+      "y": 0.0422039963,
+      "z": 0.7816808
+    },
+    "cursor_angular_distance": 9.17581749,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.7061
+  },
+  {
+    "head_origin": {
+      "x": 0.38561058,
+      "y": 1.51181233,
+      "z": 7.544686
+    },
+    "head_forward": {
+      "x": 0.7183795,
+      "y": -0.1827697,
+      "z": 0.671212435
+    },
+    "head_rotation": {
+      "x": 10.5311289,
+      "y": 46.94405,
+      "z": 358.5703
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.38561058,
+        "y": 1.51181233,
+        "z": 7.544686
+      },
+      "direction": {
+        "x": 0.710088551,
+        "y": -0.1835379,
+        "z": 0.6797707
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.168663681,
+        0.9034152,
+        0.0173653867,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.60434854,
+      "y": 1.01281238,
+      "z": 9.13046
+    },
+    "target_plane_position": {
+      "x": 0.639041066,
+      "y": 0.04935565,
+      "z": 0.7675875
+    },
+    "cursor_angular_distance": 9.171233,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.719116
+  },
+  {
+    "head_origin": {
+      "x": 0.390143931,
+      "y": 1.51143754,
+      "z": 7.55362
+    },
+    "head_forward": {
+      "x": 0.718221366,
+      "y": -0.181543142,
+      "z": 0.671714365
+    },
+    "head_rotation": {
+      "x": 10.4596558,
+      "y": 46.91639,
+      "z": 358.501526
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.390143931,
+        "y": 1.51143754,
+        "z": 7.55362
+      },
+      "direction": {
+        "x": 0.710885465,
+        "y": -0.1833445,
+        "z": 0.6789894
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.1701053,
+        0.9018878,
+        0.015902549,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.61134982,
+      "y": 1.01243758,
+      "z": 9.137494
+    },
+    "target_plane_position": {
+      "x": 0.639041066,
+      "y": 0.04935565,
+      "z": 0.7675875
+    },
+    "cursor_angular_distance": 9.153668,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.736938
+  },
+  {
+    "head_origin": {
+      "x": 0.395137459,
+      "y": 1.5110991,
+      "z": 7.56219959
+    },
+    "head_forward": {
+      "x": 0.7179161,
+      "y": -0.180220872,
+      "z": 0.6723964
+    },
+    "head_rotation": {
+      "x": 10.3826256,
+      "y": 46.8752251,
+      "z": 358.427521
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.395137459,
+        "y": 1.5110991,
+        "z": 7.56219959
+      },
+      "direction": {
+        "x": 0.711573839,
+        "y": -0.183040962,
+        "z": 0.678350151
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.17171365,
+        0.9006108,
+        0.0143430857,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.61906672,
+      "y": 1.012099,
+      "z": 9.14397
+    },
+    "target_plane_position": {
+      "x": 0.639041066,
+      "y": 0.04935565,
+      "z": 0.7675875
+    },
+    "cursor_angular_distance": 9.120915,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.752045
+  },
+  {
+    "head_origin": {
+      "x": 0.399726033,
+      "y": 1.51108384,
+      "z": 7.57127428
+    },
+    "head_forward": {
+      "x": 0.7177263,
+      "y": -0.177971065,
+      "z": 0.6731978
+    },
+    "head_rotation": {
+      "x": 10.2516031,
+      "y": 46.83362,
+      "z": 358.338
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.399726033,
+        "y": 1.51108384,
+        "z": 7.57127428
+      },
+      "direction": {
+        "x": 0.7121757,
+        "y": -0.182548016,
+        "z": 0.677851
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.173781812,
+        0.899242759,
+        0.0124105718,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.62641859,
+      "y": 1.01208377,
+      "z": 9.150903
+    },
+    "target_plane_position": {
+      "x": 0.639041066,
+      "y": 0.04935565,
+      "z": 0.7675875
+    },
+    "cursor_angular_distance": 9.08274651,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.7707
+  },
+  {
+    "head_origin": {
+      "x": 0.404955417,
+      "y": 1.51043463,
+      "z": 7.580079
+    },
+    "head_forward": {
+      "x": 0.717923045,
+      "y": -0.173489138,
+      "z": 0.674157262
+    },
+    "head_rotation": {
+      "x": 9.990747,
+      "y": 46.80073,
+      "z": 358.3092
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.404955417,
+        "y": 1.51043463,
+        "z": 7.580079
+      },
+      "direction": {
+        "x": 0.712739944,
+        "y": -0.181666166,
+        "z": 0.677494943
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.176712751,
+        0.897251248,
+        0.00965988,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.63460469,
+      "y": 1.01143456,
+      "z": 9.157407
+    },
+    "target_plane_position": {
+      "x": 0.643592656,
+      "y": 0.04998066,
+      "z": 0.7637345
+    },
+    "cursor_angular_distance": 9.040681,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.784668
+  },
+  {
+    "head_origin": {
+      "x": 0.4094684,
+      "y": 1.50958645,
+      "z": 7.58911943
+    },
+    "head_forward": {
+      "x": 0.718041241,
+      "y": -0.169755369,
+      "z": 0.6749814
+    },
+    "head_rotation": {
+      "x": 9.773599,
+      "y": 46.77051,
+      "z": 358.3073
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.4094684,
+        "y": 1.50958645,
+        "z": 7.58911943
+      },
+      "direction": {
+        "x": 0.713261962,
+        "y": -0.180506989,
+        "z": 0.6772553
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.181343466,
+        0.893357754,
+        0.006761916,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.64211535,
+      "y": 1.0105865,
+      "z": 9.164105
+    },
+    "target_plane_position": {
+      "x": 0.643592656,
+      "y": 0.04998066,
+      "z": 0.7637345
+    },
+    "cursor_angular_distance": 8.998486,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.802734
+  },
+  {
+    "head_origin": {
+      "x": 0.4143806,
+      "y": 1.50893533,
+      "z": 7.59781933
+    },
+    "head_forward": {
+      "x": 0.7177738,
+      "y": -0.168269813,
+      "z": 0.6756376
+    },
+    "head_rotation": {
+      "x": 9.687238,
+      "y": 46.73207,
+      "z": 358.321228
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.4143806,
+        "y": 1.50893533,
+        "z": 7.59781933
+      },
+      "direction": {
+        "x": 0.7137071,
+        "y": -0.179315537,
+        "z": 0.677102745
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.18791385,
+        0.8869908,
+        0.00473334128,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.64989781,
+      "y": 1.00993538,
+      "z": 9.170555
+    },
+    "target_plane_position": {
+      "x": 0.643592656,
+      "y": 0.04998066,
+      "z": 0.7637345
+    },
+    "cursor_angular_distance": 8.955983,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.8185
+  },
+  {
+    "head_origin": {
+      "x": 0.419028044,
+      "y": 1.51012349,
+      "z": 7.606807
+    },
+    "head_forward": {
+      "x": 0.717092156,
+      "y": -0.169535488,
+      "z": 0.6760448
+    },
+    "head_rotation": {
+      "x": 9.760813,
+      "y": 46.68767,
+      "z": 358.312958
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.419028044,
+        "y": 1.51012349,
+        "z": 7.606807
+      },
+      "direction": {
+        "x": 0.7140405,
+        "y": -0.178363279,
+        "z": 0.6770029
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.195872292,
+        0.8784417,
+        0.00331333885,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.65743458,
+      "y": 1.01112342,
+      "z": 9.177269
+    },
+    "target_plane_position": {
+      "x": 0.6386973,
+      "y": 0.0537041128,
+      "z": 0.767581642
+    },
+    "cursor_angular_distance": 8.901746,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.835327
+  },
+  {
+    "head_origin": {
+      "x": 0.424219072,
+      "y": 1.51254439,
+      "z": 7.61564875
+    },
+    "head_forward": {
+      "x": 0.71698457,
+      "y": -0.171974286,
+      "z": 0.6755428
+    },
+    "head_rotation": {
+      "x": 9.902629,
+      "y": 46.7046242,
+      "z": 358.3383
+    },
+    "eyeRayOrigin": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "eyeRayDirection": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "cursorData": {
+      "cursor_type": "MM",
+      "origin": {
+        "x": 0.424219072,
+        "y": 1.51254439,
+        "z": 7.61564875
+      },
+      "direction": {
+        "x": 0.714329243,
+        "y": -0.177740708,
+        "z": 0.6768621
+      },
+      "target_name": "TargetBackPlane",
+      "filteron": true,
+      "maxspeed": 9.0,
+      "EH_distance": 0.0,
+      "scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.2040132,
+        0.868737,
+        0.002319337,
+        0.0
+      ]
+    },
+    "target_position": {
+      "x": 1.6655364,
+      "y": 1.01354432,
+      "z": 9.18381
+    },
+    "target_plane_position": {
+      "x": 0.6386973,
+      "y": 0.0537041128,
+      "z": 0.767581642
+    },
+    "cursor_angular_distance": 8.838913,
+    "start_num": 0,
+    "end_num": 0,
+    "step_num": 0,
+    "timestamp": 375.856934
+  }
+]
